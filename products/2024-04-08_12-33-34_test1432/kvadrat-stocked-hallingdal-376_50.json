@@ -1,0 +1,5202 @@
+[
+  {
+    "slug": "kvadrat-stocked-hallingdal-376",
+    "name": "Stocked Hallingdal 376",
+    "sku": "STO-HAL-376",
+    "active": true,
+    "description": "<p>Composition: 70% New wool, 30% Viscose, Durability: 100.000 Martindale, Lightfastness: 7, Sustainability: Complies with EU ecolabel \"The Flower\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:50:04.573Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:50:04.948Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7bc511cd0001295c608",
+          "date_uploaded": "2024-04-03T00:50:04.868Z",
+          "length": 14396,
+          "md5": "c7cd2eee6735874b79aa901e0138395c",
+          "filename": "Kvadrat_Hallingdal-65_376_7ea5c0c9-4950-4268-868e-06b1482b0200.jpg?v=1697435358",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7bc511cd0001295c608/c7cd2eee6735874b79aa901e0138395c/Kvadrat_Hallingdal-65_376_7ea5c0c9-4950-4268-868e-06b1482b0200.jpg%3Fv%3D1697435358",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Hallingdal-65_376_7ea5c0c9-4950-4268-868e-06b1482b0200.jpg?v=1697435358",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7bc3efef7001201fb73"
+      }
+    ],
+    "id": "660ca7bc7463b30012536cb7",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-hallingdal-376"
+  },
+  {
+    "slug": "bute-stocked-storr",
+    "name": "Stocked: Storr Eggshell",
+    "sku": "CF774-1501",
+    "active": true,
+    "description": "<p>Composition: 97% pure new wool, 3% nylon<br>Durability: 50.000 Martindale<br>Lightfastness: Colors comply with the requirements of BS EN ISO 105 – B02:2013</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:50:01.495Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:50:01.977Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b99a045b00125b30f9",
+          "date_uploaded": "2024-04-03T00:50:01.892Z",
+          "length": 16476,
+          "md5": "4f7ee655bf6ab3f273146300eb4a6721",
+          "filename": "109d6f_898b73fb0da64c309c74eaca1de07b56_mv2_a273d9b1-1056-4743-989b-eaa91c984ed0.jpg?v=1697435358",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b99a045b00125b30f9/4f7ee655bf6ab3f273146300eb4a6721/109d6f_898b73fb0da64c309c74eaca1de07b56_mv2_a273d9b1-1056-4743-989b-eaa91c984ed0.jpg%3Fv%3D1697435358",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/109d6f_898b73fb0da64c309c74eaca1de07b56_mv2_a273d9b1-1056-4743-989b-eaa91c984ed0.jpg?v=1697435358",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b9ed4b210012be7126"
+      }
+    ],
+    "id": "660ca7b9d46b2c001239372b",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "bute-stocked-storr"
+  },
+  {
+    "slug": "steelcut-trio-3-kns-2",
+    "name": "Steelcut Trio 3 (KNS-2)",
+    "sku": "Kvadrat-Steelcut-Trio-Dark-Yellow",
+    "active": true,
+    "description": "<p>Composition: 90% New wool (worsted), 10% Nylon, Durability: 100.000 Martindale, Lightfastness: 6-7, Sustainability: Complies with EU ecolabel \"The Flower.\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:50:00.799Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:50:01.230Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b92077490011fd82d8",
+          "date_uploaded": "2024-04-03T00:50:01.145Z",
+          "length": 15656,
+          "md5": "19d1b342cbabbb8a5b7cacaef18d6e16",
+          "filename": "Kvadrat_Steelcut-Trio-3_205_7851c060-bb60-4fb3-9a58-3d3c7cd6104e.jpg?v=1697435361",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b92077490011fd82d8/19d1b342cbabbb8a5b7cacaef18d6e16/Kvadrat_Steelcut-Trio-3_205_7851c060-bb60-4fb3-9a58-3d3c7cd6104e.jpg%3Fv%3D1697435361",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Steelcut-Trio-3_205_7851c060-bb60-4fb3-9a58-3d3c7cd6104e.jpg?v=1697435361",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b9b9eedc0012b6974e"
+      }
+    ],
+    "id": "660ca7b87da3c00012a773e3",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "steelcut-trio-3-kns-2"
+  },
+  {
+    "slug": "ultra-mn",
+    "name": "Ultra (MN)",
+    "sku": "Sorensen-Leather-Ultra-Tango-41590",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6-7</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:59.645Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:50:00.064Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b797b8220012dc6eb2",
+          "date_uploaded": "2024-04-03T00:49:59.959Z",
+          "length": 6696,
+          "md5": "b7f274524e4fcd68ff90c2889e342cf7",
+          "filename": "Sorensen-Leather_Ultra-_Tango__41590_f210f1f6-1d51-45c2-8df6-94ab9f763e6c.jpg?v=1697435361",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b797b8220012dc6eb2/b7f274524e4fcd68ff90c2889e342cf7/Sorensen-Leather_Ultra-_Tango__41590_f210f1f6-1d51-45c2-8df6-94ab9f763e6c.jpg%3Fv%3D1697435361",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Sorensen-Leather_Ultra-_Tango__41590_f210f1f6-1d51-45c2-8df6-94ab9f763e6c.jpg?v=1697435361",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b83ec272001160118b"
+      }
+    ],
+    "id": "660ca7b7cf0a5e0012040df1",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "ultra-mn"
+  },
+  {
+    "slug": "stocked-storr-coal",
+    "name": "Stocked: Storr Coal",
+    "sku": "CF774-157",
+    "active": true,
+    "description": "<p>Composition: 97% pure new wool, 3% nylon<br>Durability: 50.000 Martindale<br>Lightfastness: Colors comply with the requirements of BS EN ISO 105 – B02:2013</p>",
+    "price": null,
+    "sale": false,
+    "bundle": false,
+    "meta_title": "Stocked: Storr Coal | Buy Bute online at A+R",
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:59.017Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T14:55:49.774Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": null,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660d6df5eb17b00012e704a1",
+          "date_uploaded": "2024-04-03T14:55:49.693Z",
+          "length": 9264,
+          "md5": "dce2672c848aff0a7e2f57be29a3ad00",
+          "filename": "Bute_Storr_Coal_04859365-db58-4c0e-9abb-78fa228ecb81.jpg?v=1643012344",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660d6df5eb17b00012e704a1/dce2672c848aff0a7e2f57be29a3ad00/Bute_Storr_Coal_04859365-db58-4c0e-9abb-78fa228ecb81.jpg%3Fv%3D1643012344",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Bute_Storr_Coal_04859365-db58-4c0e-9abb-78fa228ecb81.jpg?v=1643012344",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b70788890012ab20cd"
+      }
+    ],
+    "id": "660ca7b6cc87800012116e38",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-storr-coal"
+  },
+  {
+    "slug": "fez",
+    "name": "Fez(SP01)",
+    "sku": "12D0006",
+    "active": true,
+    "description": "<p>Composition: 88%Cotton, 10%Polyester, 2%Acrylic, Durability: 45.000 Martindale <br></p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:58.322Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:58.755Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b67463b30012536cac",
+          "date_uploaded": "2024-04-03T00:49:58.638Z",
+          "length": 8404,
+          "md5": "758d817320b64b27c878e62ff8472e9a",
+          "filename": "Charcoal12D0006.jpg?v=1697435364",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b67463b30012536cac/758d817320b64b27c878e62ff8472e9a/Charcoal12D0006.jpg%3Fv%3D1697435364",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Charcoal12D0006.jpg?v=1697435364",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b618be1b00124fdfe7"
+      }
+    ],
+    "id": "660ca7b614e3fb0012e895c3",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "fez"
+  },
+  {
+    "slug": "nevotex-stocked-wooly",
+    "name": "Stocked: Wooly Rust",
+    "sku": "NEV-WOOL-RUST",
+    "active": true,
+    "description": "Composition: 70% Wool, 25% Polyamide, 5% Mixed fibers<br>Durability: 150.000 Martindale<br>Lightfastness: 6",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:56.897Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:57.298Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b5d9dd0100129f112c",
+          "date_uploaded": "2024-04-03T00:49:57.215Z",
+          "length": 6928,
+          "md5": "366dfb0f311ee4b52f685063c78de8b1",
+          "filename": "1039025_1.jpg?v=1697435365",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b5d9dd0100129f112c/366dfb0f311ee4b52f685063c78de8b1/1039025_1.jpg%3Fv%3D1697435365",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/1039025_1.jpg?v=1697435365",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b53399200012d3f7e0"
+      }
+    ],
+    "id": "660ca7b4cbb07e0012d88b93",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "nevotex-stocked-wooly"
+  },
+  {
+    "slug": "kvadrat-fiord-1",
+    "name": "Fiord",
+    "sku": "Kvadrat-Fiord-101",
+    "active": true,
+    "description": "<p>Composition: 92% New wool (worsted), 8% Nylon, Durability: 60.000 Martindale, Lightfastness: 6, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:56.125Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:56.481Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b4f9d0100011b4929c",
+          "date_uploaded": "2024-04-03T00:49:56.419Z",
+          "length": 15328,
+          "md5": "1eef8a04bed4969ddf3ddd3c74e0b3b5",
+          "filename": "F_1279_C0662_W24.tif_75e9ac01-b157-49a3-b0fd-f6f0548ee463.jpg?v=1697435371",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b4f9d0100011b4929c/1eef8a04bed4969ddf3ddd3c74e0b3b5/F_1279_C0662_W24.tif_75e9ac01-b157-49a3-b0fd-f6f0548ee463.jpg%3Fv%3D1697435371",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/F_1279_C0662_W24.tif_75e9ac01-b157-49a3-b0fd-f6f0548ee463.jpg?v=1697435371",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b42077490011fd82c3"
+      }
+    ],
+    "id": "660ca7b4a94b1b0012cb04ea",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-fiord-1"
+  },
+  {
+    "slug": "shade-moo",
+    "name": "Shade (MOO)",
+    "sku": "Moooi-Pitch-Black-20296",
+    "active": true,
+    "description": null,
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:55.486Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:55.857Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b39a045b00125b30ed",
+          "date_uploaded": "2024-04-03T00:49:55.788Z",
+          "length": 1860,
+          "md5": "55588b2a8ba77e0c55f85616988ee32f",
+          "filename": "shade-pitch_black-thumb-512.jpg?v=1697435375",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b39a045b00125b30ed/55588b2a8ba77e0c55f85616988ee32f/shade-pitch_black-thumb-512.jpg%3Fv%3D1697435375",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/shade-pitch_black-thumb-512.jpg?v=1697435375",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b3d9dd0100129f1122"
+      }
+    ],
+    "id": "660ca7b363bd5e0011680b15",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "shade-moo"
+  },
+  {
+    "slug": "jab-hot-madison-mn-2",
+    "name": "Hot Madison (MN) 2",
+    "sku": "JAB-Hot-Madison-MN-2-704",
+    "active": true,
+    "description": "<p>Composition: 63% Cotton, 37% Linen, Durability: 55.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:54.877Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:55.228Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b3cbb07e0012d88b89",
+          "date_uploaded": "2024-04-03T00:49:55.153Z",
+          "length": 14256,
+          "md5": "b94ec1d938eee77d77e20d4377936f4e",
+          "filename": "JAB_Hot-Madison-Reloaded_704_54ffd7cd-3b45-4fc9-8932-f2842c65b38d.jpg?v=1697435394",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b3cbb07e0012d88b89/b94ec1d938eee77d77e20d4377936f4e/JAB_Hot-Madison-Reloaded_704_54ffd7cd-3b45-4fc9-8932-f2842c65b38d.jpg%3Fv%3D1697435394",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/JAB_Hot-Madison-Reloaded_704_54ffd7cd-3b45-4fc9-8932-f2842c65b38d.jpg?v=1697435394",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b33efef7001201fb5a"
+      }
+    ],
+    "id": "660ca7b2abe9a90012efa9a8",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "jab-hot-madison-mn-2"
+  },
+  {
+    "slug": "copy-of-steelcut-2-mn",
+    "name": "Steelcut 2 (MN)",
+    "sku": "Kvadrat-Steelcut-2-110",
+    "active": true,
+    "description": "<p>Composition: 90% New wool (worsted), 10% Nylon, Durability: 80.000 Martindale, Lightfastness: 6, Sustainability: Complies with EU ecolabel \"The Flower\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:54.215Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:54.638Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b27463b30012536ca7",
+          "date_uploaded": "2024-04-03T00:49:54.517Z",
+          "length": 6696,
+          "md5": "a71c888c4e8fe80c2f5411aec06e0261",
+          "filename": "Kvadrat_Steelcut-2_110_2dc5313d-176a-458e-996e-b78b6dca520c.jpg?v=1697435396",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b27463b30012536ca7/a71c888c4e8fe80c2f5411aec06e0261/Kvadrat_Steelcut-2_110_2dc5313d-176a-458e-996e-b78b6dca520c.jpg%3Fv%3D1697435396",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Steelcut-2_110_2dc5313d-176a-458e-996e-b78b6dca520c.jpg?v=1697435396",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b22c7054001207e7ac"
+      }
+    ],
+    "id": "660ca7b28469da001254f535",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "copy-of-steelcut-2-mn"
+  },
+  {
+    "slug": "deder-lupo-special-diagonal-boucle",
+    "name": "Lupo Special Diagonal Boucle",
+    "sku": "DED-LUP-007",
+    "active": true,
+    "description": "<span data-mce-fragment=\"1\">Composition:<br>73% Trevira CS,<br>27% Polyester FR,<br>Durability:<br>40.000 Martindale</span>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:53.523Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:53.985Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b119fae7001162a538",
+          "date_uploaded": "2024-04-03T00:49:53.911Z",
+          "length": 15108,
+          "md5": "a867cad7bb3fc62cb193a71fb2412a76",
+          "filename": "10091108_dedar_lupo-special-diagonal-boucle_007_fpcopy.jpg?v=1697435402",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b119fae7001162a538/a867cad7bb3fc62cb193a71fb2412a76/10091108_dedar_lupo-special-diagonal-boucle_007_fpcopy.jpg%3Fv%3D1697435402",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091108_dedar_lupo-special-diagonal-boucle_007_fpcopy.jpg?v=1697435402",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b148814b00128e1e1f"
+      }
+    ],
+    "id": "660ca7b1511cd0001295c5ef",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "deder-lupo-special-diagonal-boucle"
+  },
+  {
+    "slug": "dedar-eero-special-fr",
+    "name": "Eero Special FR",
+    "sku": "DED-EER-102",
+    "active": true,
+    "description": "<p>Composition: 100% Polyester, Durability: 40.000 Martindale</p>",
+    "price": null,
+    "sale": false,
+    "bundle": false,
+    "meta_title": "Eero Special FR | Buy Dedar online at A+R",
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:52.093Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T15:04:24.937Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": null,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660d6ff8ab77f30012750c43",
+          "date_uploaded": "2024-04-03T15:04:24.829Z",
+          "length": 15592,
+          "md5": "7ecbe6f7a77c731de9f50a2364b579d4",
+          "filename": "10091085_dedar_eero-special-fr_102_fp_1.jpg?v=1634216799",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660d6ff8ab77f30012750c43/7ecbe6f7a77c731de9f50a2364b579d4/10091085_dedar_eero-special-fr_102_fp_1.jpg%3Fv%3D1634216799",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091085_dedar_eero-special-fr_102_fp_1.jpg?v=1634216799",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b0ce86890012f6923a"
+      }
+    ],
+    "id": "660ca7b05c361f0012330853",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "dedar-eero-special-fr"
+  },
+  {
+    "slug": "gubi-plain",
+    "name": "Plain",
+    "sku": "GUB-PLA-25",
+    "active": true,
+    "description": "<p>Composition: 40% Viscose, 30% Wool, 20% Linen, 10% Nylon, Durability: 50.000</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:52.758Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:53.276Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b1efb0800012e715e7",
+          "date_uploaded": "2024-04-03T00:49:53.148Z",
+          "length": 10820,
+          "md5": "5513f2bd217e1e7d3f8103e5deae7389",
+          "filename": "10091140_enzo-degli-angiuoni_plain_0033_fpcopy.jpg?v=1697435405",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b1efb0800012e715e7/5513f2bd217e1e7d3f8103e5deae7389/10091140_enzo-degli-angiuoni_plain_0033_fpcopy.jpg%3Fv%3D1697435405",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091140_enzo-degli-angiuoni_plain_0033_fpcopy.jpg?v=1697435405",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7b1ce86890012f69243"
+      }
+    ],
+    "id": "660ca7b03211080012352cb4",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "gubi-plain"
+  },
+  {
+    "slug": "deder-flair-special-fr",
+    "name": "Flair Special FR",
+    "sku": "DED-FLA-101",
+    "active": true,
+    "description": "<p>Composition: 100% Polyester FR, Durability: 80.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:51.407Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:51.829Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7af05351e00116d914b",
+          "date_uploaded": "2024-04-03T00:49:51.745Z",
+          "length": 7552,
+          "md5": "8be803189baa490bdb4fd53bca3036b8",
+          "filename": "10091094_dedar_flair-special-fr_201_fpcopy.jpg?v=1697435411",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7af05351e00116d914b/8be803189baa490bdb4fd53bca3036b8/10091094_dedar_flair-special-fr_201_fpcopy.jpg%3Fv%3D1697435411",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091094_dedar_flair-special-fr_201_fpcopy.jpg?v=1697435411",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7af4c51cf00112de715"
+      }
+    ],
+    "id": "660ca7afb9eedc0012b69736",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "deder-flair-special-fr"
+  },
+  {
+    "slug": "backhawren-aurin-5",
+    "name": "Aurin 5",
+    "sku": "BAC-AUR-MD215A00",
+    "active": true,
+    "description": "<p>Composition: 100% New Wool, Durability: 35.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:50.724Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:51.179Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7af3399200012d3f7ce",
+          "date_uploaded": "2024-04-03T00:49:51.086Z",
+          "length": 9744,
+          "md5": "df9ea008cb6b8a1df84bd5a5dd2345e2",
+          "filename": "10035649_backhausen_aurin_md215a18_fpcopy.jpg?v=1697435417",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7af3399200012d3f7ce/df9ea008cb6b8a1df84bd5a5dd2345e2/10035649_backhausen_aurin_md215a18_fpcopy.jpg%3Fv%3D1697435417",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10035649_backhausen_aurin_md215a18_fpcopy.jpg?v=1697435417",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7afefb0800012e715dd"
+      }
+    ],
+    "id": "660ca7aeffce1900121792ea",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "backhawren-aurin-5"
+  },
+  {
+    "slug": "gubi-indianskop",
+    "name": "Indianskop",
+    "sku": "GUB-IND-65",
+    "active": true,
+    "description": "<p>Composition: 34% Viscose, 31% Cotton, 15% Linen, 13% Acrylic, 7% Polyester, Durability: 25.00 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:49.863Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:50.461Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7ae4af4b5001222b196",
+          "date_uploaded": "2024-04-03T00:49:50.211Z",
+          "length": 11356,
+          "md5": "2142a9d83d30dee002c8eb4a65a2145b",
+          "filename": "10091146_limonta_indianskop_36_fpcopy.jpg?v=1697435419",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7ae4af4b5001222b196/2142a9d83d30dee002c8eb4a65a2145b/10091146_limonta_indianskop_36_fpcopy.jpg%3Fv%3D1697435419",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091146_limonta_indianskop_36_fpcopy.jpg?v=1697435419",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7ae3efef7001201fb3f"
+      }
+    ],
+    "id": "660ca7adcf0a5e0012040dcf",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "gubi-indianskop"
+  },
+  {
+    "slug": "gubi-drive",
+    "name": "Drive",
+    "sku": "GUB-DRI-1110",
+    "active": true,
+    "description": "<p>Composition: 50% Recycled Linen, 50% Linen, Durability: 25.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:49.243Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:49.614Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7adac187f0012fd0152",
+          "date_uploaded": "2024-04-03T00:49:49.526Z",
+          "length": 7972,
+          "md5": "78d4277334dbb069bf5ef67c7e6e691b",
+          "filename": "10091130_glamour-group_drive_1523_fpcopy.jpg?v=1697435426",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7adac187f0012fd0152/78d4277334dbb069bf5ef67c7e6e691b/10091130_glamour-group_drive_1523_fpcopy.jpg%3Fv%3D1697435426",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091130_glamour-group_drive_1523_fpcopy.jpg?v=1697435426",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7ada07501001243e2fa"
+      }
+    ],
+    "id": "660ca7ad97b8220012dc6e9d",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "gubi-drive"
+  },
+  {
+    "slug": "sorensen-leather-ultra-camel-leather",
+    "name": "Ultra Camel Leather",
+    "sku": "Sorensen-Leather-Ultra-Camel-Leather-41571",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6-7</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:48.625Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:48.984Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7ac7963de00135dc768",
+          "date_uploaded": "2024-04-03T00:49:48.912Z",
+          "length": 8220,
+          "md5": "141340d99796de87844476e84a907c9c",
+          "filename": "ULTRA-Camel-41571_1_8b7f1495-ffe7-43d1-8916-4bf095d55e80.jpg?v=1697435429",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7ac7963de00135dc768/141340d99796de87844476e84a907c9c/ULTRA-Camel-41571_1_8b7f1495-ffe7-43d1-8916-4bf095d55e80.jpg%3Fv%3D1697435429",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/ULTRA-Camel-41571_1_8b7f1495-ffe7-43d1-8916-4bf095d55e80.jpg?v=1697435429",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7ac14e3fb0012e895a2"
+      }
+    ],
+    "id": "660ca7ace55d270012a766f7",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "sorensen-leather-ultra-camel-leather"
+  },
+  {
+    "slug": "stocked-city-velvet-84",
+    "name": "Stocked: City Velvet 84",
+    "sku": "CIT-VEL-84",
+    "active": true,
+    "description": "<p>Composition: 100% Polyester<br>Durability: 50.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:47.151Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:47.594Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7ab5c361f0012330849",
+          "date_uploaded": "2024-04-03T00:49:47.456Z",
+          "length": 5728,
+          "md5": "3600002068ca65c5c7f30e01b7483002",
+          "filename": "JAB_CityVelvet_84_0366a85a-f61a-4d19-b0f5-90c86e1ba8cc.jpg?v=1697435432",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7ab5c361f0012330849/3600002068ca65c5c7f30e01b7483002/JAB_CityVelvet_84_0366a85a-f61a-4d19-b0f5-90c86e1ba8cc.jpg%3Fv%3D1697435432",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/JAB_CityVelvet_84_0366a85a-f61a-4d19-b0f5-90c86e1ba8cc.jpg?v=1697435432",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7ab959ec9001293d627"
+      }
+    ],
+    "id": "660ca7abcc87800012116e21",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-city-velvet-84"
+  },
+  {
+    "slug": "stocked-spectrum-30158",
+    "name": "Stocked Spectrum 30158",
+    "sku": "Kvadrat-Glacier-30158",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:47.981Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:48.371Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7ac2077490011fd82af",
+          "date_uploaded": "2024-04-03T00:49:48.285Z",
+          "length": 10988,
+          "md5": "01a6d5f09882c0644f4ae44578bcb8ec",
+          "filename": "SPECTRUM-glacier_6045ecc5-47ab-4423-ac82-212ff948ee1f.jpg?v=1697435430",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7ac2077490011fd82af/01a6d5f09882c0644f4ae44578bcb8ec/SPECTRUM-glacier_6045ecc5-47ab-4423-ac82-212ff948ee1f.jpg%3Fv%3D1697435430",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/SPECTRUM-glacier_6045ecc5-47ab-4423-ac82-212ff948ee1f.jpg?v=1697435430",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7ac58ff7300121641e0"
+      }
+    ],
+    "id": "660ca7ab1102df00122a1885",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-spectrum-30158"
+  },
+  {
+    "slug": "deder-sunday",
+    "name": "Sunday",
+    "sku": "DED-SUN-007",
+    "active": true,
+    "description": "<p>Composition: 100% Trevira CS, Durability: 100.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:46.467Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:46.879Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7aa3211080012352cad",
+          "date_uploaded": "2024-04-03T00:49:46.806Z",
+          "length": 2980,
+          "md5": "c05fcb96ed7d6e26f5d1c79a81f25121",
+          "filename": "10091068_dedar_sunday_034_fpcopy.jpg?v=1697435433",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7aa3211080012352cad/c05fcb96ed7d6e26f5d1c79a81f25121/10091068_dedar_sunday_034_fpcopy.jpg%3Fv%3D1697435433",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091068_dedar_sunday_034_fpcopy.jpg?v=1697435433",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7aa0788890012ab209f"
+      }
+    ],
+    "id": "660ca7aa5cb0f50012ee33a6",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "deder-sunday"
+  },
+  {
+    "slug": "stocked-sheepskin-nature",
+    "name": "Stocked: Sheepskin Nature",
+    "sku": "SHEEP-NAT",
+    "active": true,
+    "description": "<p>Composition: 100% Sheepskin</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:45.856Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:46.230Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7aa2c7054001207e78d",
+          "date_uploaded": "2024-04-03T00:49:46.150Z",
+          "length": 10268,
+          "md5": "a3b8d78abc49491f179092e8d9194a98",
+          "filename": "image_96228879-1c71-4b67-bed4-71533a7f531e.jpg?v=1697435434",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7aa2c7054001207e78d/a3b8d78abc49491f179092e8d9194a98/image_96228879-1c71-4b67-bed4-71533a7f531e.jpg%3Fv%3D1697435434",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/image_96228879-1c71-4b67-bed4-71533a7f531e.jpg?v=1697435434",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7aa7963de00135dc75d"
+      }
+    ],
+    "id": "660ca7a914e3fb0012e89596",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-sheepskin-nature"
+  },
+  {
+    "slug": "skandilock-stocked-sheepskin-espresso",
+    "name": "Stocked: Sheepskin Espresso",
+    "sku": "Skandilock-Stocked-Sheepskin-Espresso",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:44.387Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:44.747Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a8ed4b210012be7105",
+          "date_uploaded": "2024-04-03T00:49:44.668Z",
+          "length": 9664,
+          "md5": "15ba4b0812be8cbf537adac9e54bc782",
+          "filename": "Skandilock_Aussie_Espresso_ad6ade0b-7902-4b93-91d9-0d8532291d32.jpg?v=1697435435",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a8ed4b210012be7105/15ba4b0812be8cbf537adac9e54bc782/Skandilock_Aussie_Espresso_ad6ade0b-7902-4b93-91d9-0d8532291d32.jpg%3Fv%3D1697435435",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Skandilock_Aussie_Espresso_ad6ade0b-7902-4b93-91d9-0d8532291d32.jpg?v=1697435435",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a86549aa001381f4c5"
+      }
+    ],
+    "id": "660ca7a8a07501001243e2ed",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-stocked-sheepskin-espresso"
+  },
+  {
+    "slug": "stocked-sheepskin-root",
+    "name": "Stocked: Sheepskin Root",
+    "sku": "SHEEP-ROOT",
+    "active": true,
+    "description": "<p>Composition: 100% Sheepskin</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:44.977Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:45.602Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a933aa8f0012b2b5be",
+          "date_uploaded": "2024-04-03T00:49:45.522Z",
+          "length": 11352,
+          "md5": "6626fe551072e0c723785030deed6dbb",
+          "filename": "image_1_f1ceae65-4ae9-43d4-8884-985cc75d1f61.jpg?v=1697435434",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a933aa8f0012b2b5be/6626fe551072e0c723785030deed6dbb/image_1_f1ceae65-4ae9-43d4-8884-985cc75d1f61.jpg%3Fv%3D1697435434",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/image_1_f1ceae65-4ae9-43d4-8884-985cc75d1f61.jpg?v=1697435434",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a9d8543200123c7a2c"
+      }
+    ],
+    "id": "660ca7a897b8220012dc6e87",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-sheepskin-root"
+  },
+  {
+    "slug": "kvadrat-stocked-savanna-672",
+    "name": "Stocked: Savanna 672",
+    "sku": "Kvadrat-Savanna-672",
+    "active": true,
+    "description": "<p><span>Composition: 34% Polyester, 31% New wool, 26% Acrylic, 4% Cotton, 3% Nylon, 2% Linen, Durability: 45.000 Martindale, Lightfastness: 6-7, Sustainability: Greenguard Certification</span></p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:43.654Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:44.116Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a814158f0012bf9cce",
+          "date_uploaded": "2024-04-03T00:49:44.017Z",
+          "length": 14608,
+          "md5": "c272e622704f2b7a9d862b5721c00119",
+          "filename": "Kvadrat_Savanna_672_1.jpg?v=1697435435",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a814158f0012bf9cce/c272e622704f2b7a9d862b5721c00119/Kvadrat_Savanna_672_1.jpg%3Fv%3D1697435435",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Savanna_672_1.jpg?v=1697435435",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a8699d9c0012d493ba"
+      }
+    ],
+    "id": "660ca7a7025f6d0012d81e3a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-savanna-672"
+  },
+  {
+    "slug": "skandilock-stocked-sheepskin-honey",
+    "name": "Stocked: Sheepskin Honey",
+    "sku": "Skandilock-Stocked-Sheepskin-Honey",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:42.316Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:43.399Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a6cfbf540012f41742",
+          "date_uploaded": "2024-04-03T00:49:43.305Z",
+          "length": 10424,
+          "md5": "fedc9ed49854ca534bc066ef73faa29f",
+          "filename": "Rund_Honey.jpg?v=1697435444",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a6cfbf540012f41742/fedc9ed49854ca534bc066ef73faa29f/Rund_Honey.jpg%3Fv%3D1697435444",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Honey.jpg?v=1697435444",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a77da3c00012a773bf"
+      }
+    ],
+    "id": "660ca7a6d8543200123c7a1c",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-stocked-sheepskin-honey"
+  },
+  {
+    "slug": "kvadrat-stocked-tonica-2-0383",
+    "name": "Stocked: Tonica 2 0383",
+    "sku": "Stocked-Tonica-2-0383",
+    "active": true,
+    "description": "<p>Composition: 100% New wool, Durability: 45.000 Martindale, Lightfastness: 6-7, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:41.564Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:42.058Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a59262e900121ef353",
+          "date_uploaded": "2024-04-03T00:49:41.893Z",
+          "length": 17776,
+          "md5": "c66254e09066413d17a19b1e48d80210",
+          "filename": "Kvadrat_Tonica-2_0383_f2c29310-f171-4597-a19e-2b3f2677c1a4.jpg?v=1697435450",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a59262e900121ef353/c66254e09066413d17a19b1e48d80210/Kvadrat_Tonica-2_0383_f2c29310-f171-4597-a19e-2b3f2677c1a4.jpg%3Fv%3D1697435450",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Tonica-2_0383_f2c29310-f171-4597-a19e-2b3f2677c1a4.jpg?v=1697435450",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a6025f6d0012d81e2f"
+      }
+    ],
+    "id": "660ca7a5f8a26d0012053733",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-tonica-2-0383"
+  },
+  {
+    "slug": "kvadrat-stocked-coda-2-0222",
+    "name": "Stocked: Coda 2 0222",
+    "sku": "Stocked-Coda-2-222",
+    "active": true,
+    "description": "<p>Composition: 90% New wool, 10% Nylon, Durability: 100.000 Martindale, Lightfastness: 6-7, Sustainability: Natural fibres / Sustainable resource.</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:40.820Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:41.308Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a5829a8c00123fdfa8",
+          "date_uploaded": "2024-04-03T00:49:41.196Z",
+          "length": 16868,
+          "md5": "640dafdd879ee5ff7ca858e543f0578e",
+          "filename": "Kvadrat_Coda-2_222_86f632f1-09bb-498a-a3cf-d89905ecd48a.jpg?v=1697435451",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a5829a8c00123fdfa8/640dafdd879ee5ff7ca858e543f0578e/Kvadrat_Coda-2_222_86f632f1-09bb-498a-a3cf-d89905ecd48a.jpg%3Fv%3D1697435451",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Coda-2_222_86f632f1-09bb-498a-a3cf-d89905ecd48a.jpg?v=1697435451",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a53efef7001201fb2f"
+      }
+    ],
+    "id": "660ca7a448a1fb001239eb13",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-coda-2-0222"
+  },
+  {
+    "slug": "stocked-ultra-camel-leather",
+    "name": "Stocked: Ultra Camel Leather",
+    "sku": "Sorensen-Leather-Stocked-Ultra-Camel-Leather-41571",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6-7</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:40.185Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:40.554Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a4f8a26d001205372d",
+          "date_uploaded": "2024-04-03T00:49:40.460Z",
+          "length": 8220,
+          "md5": "141340d99796de87844476e84a907c9c",
+          "filename": "ULTRA-Camel-41571_1_e8402e24-47f4-41fe-973f-cf787f5bc1d3.jpg?v=1697435455",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a4f8a26d001205372d/141340d99796de87844476e84a907c9c/ULTRA-Camel-41571_1_e8402e24-47f4-41fe-973f-cf787f5bc1d3.jpg%3Fv%3D1697435455",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/ULTRA-Camel-41571_1_e8402e24-47f4-41fe-973f-cf787f5bc1d3.jpg?v=1697435455",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a4fc22700012548d3c"
+      }
+    ],
+    "id": "660ca7a43efef7001201fb20",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-ultra-camel-leather"
+  },
+  {
+    "slug": "skandilock-stocked-sheepskin-off-white",
+    "name": "Stocked: Sheepskin Off White",
+    "sku": "Skandilock-Stocked-Sheepskin-Off-White",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:39.510Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:39.916Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a3f9d0100011b4928c",
+          "date_uploaded": "2024-04-03T00:49:39.834Z",
+          "length": 6632,
+          "md5": "543a1afe6323e05da95b813fbbef0abd",
+          "filename": "Skandilock_Aussie_Off-White_1dd3a127-6cdf-4ea7-a567-c2fc38e0b49d.jpg?v=1697435458",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a3f9d0100011b4928c/543a1afe6323e05da95b813fbbef0abd/Skandilock_Aussie_Off-White_1dd3a127-6cdf-4ea7-a567-c2fc38e0b49d.jpg%3Fv%3D1697435458",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Skandilock_Aussie_Off-White_1dd3a127-6cdf-4ea7-a567-c2fc38e0b49d.jpg?v=1697435458",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a3ffedf90012c77f1a"
+      }
+    ],
+    "id": "660ca7a37da3c00012a773b1",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-stocked-sheepskin-off-white"
+  },
+  {
+    "slug": "gubi-mumble",
+    "name": "Mumble",
+    "sku": "GUB-MUM-49",
+    "active": true,
+    "description": "<p>Composition: 72% Recycled Polyester, 28% Polyester, Durability: 50.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:38.488Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:39.097Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a3047c2b0012b3db9a",
+          "date_uploaded": "2024-04-03T00:49:39.017Z",
+          "length": 8312,
+          "md5": "5bbaafd0e422a85cedbbb591822a68f6",
+          "filename": "10091117_glamour-group_mumble_02_fpcopy.jpg?v=1697435465",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a3047c2b0012b3db9a/5bbaafd0e422a85cedbbb591822a68f6/10091117_glamour-group_mumble_02_fpcopy.jpg%3Fv%3D1697435465",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10091117_glamour-group_mumble_02_fpcopy.jpg?v=1697435465",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a397b8220012dc6e74"
+      }
+    ],
+    "id": "660ca7a2bf090100126d8f38",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "gubi-mumble"
+  },
+  {
+    "slug": "skandilock-stocked-sheepskin-green-tea",
+    "name": "Stocked: Sheepskin Green Tea",
+    "sku": "Skandilock-Stocked-Sheepskin-green-tea",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:37.808Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:38.238Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a20788890012ab2090",
+          "date_uploaded": "2024-04-03T00:49:38.132Z",
+          "length": 11184,
+          "md5": "d5637744c308f8906a4abd3ecfd9ac6d",
+          "filename": "Rund_Green-Tea.jpg?v=1697435467",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a20788890012ab2090/d5637744c308f8906a4abd3ecfd9ac6d/Rund_Green-Tea.jpg%3Fv%3D1697435467",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Green-Tea.jpg?v=1697435467",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a26549aa001381f4ae"
+      }
+    ],
+    "id": "660ca7a1f9d0100011b4927f",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-stocked-sheepskin-green-tea"
+  },
+  {
+    "slug": "gubi-velluto-velvet",
+    "name": "GUBI Velluto Velvet",
+    "sku": "GUB-VEL-641",
+    "active": true,
+    "description": "<p>Composition: 100% Cotton, Durability: 50.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:37.049Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:37.560Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a13ec2720011601166",
+          "date_uploaded": "2024-04-03T00:49:37.467Z",
+          "length": 5004,
+          "md5": "51fb7ea4f6355b50b340b53f5ed4512f",
+          "filename": "10039143_gubi_velvet_128_fpcopy.jpg?v=1697435468",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a13ec2720011601166/51fb7ea4f6355b50b340b53f5ed4512f/10039143_gubi_velvet_128_fpcopy.jpg%3Fv%3D1697435468",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10039143_gubi_velvet_128_fpcopy.jpg?v=1697435468",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a105351e00116d912d"
+      }
+    ],
+    "id": "660ca7a1a42cfd001329f87a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "gubi-velluto-velvet"
+  },
+  {
+    "slug": "stocked-city-velvet-60",
+    "name": "Stocked: City Velvet 60",
+    "sku": "CIT-VEL-60",
+    "active": true,
+    "description": "<p>Composition: 100% Polyester<br>Durability: 50.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:36.391Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:36.762Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a07463b30012536c8f",
+          "date_uploaded": "2024-04-03T00:49:36.676Z",
+          "length": 4828,
+          "md5": "24865eef281b3b00c99eae35c8cc0a58",
+          "filename": "JAB_CityVelvet_60_c463191f-7e19-4c35-b271-f4e8600578b8.jpg?v=1697435468",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a07463b30012536c8f/24865eef281b3b00c99eae35c8cc0a58/JAB_CityVelvet_60_c463191f-7e19-4c35-b271-f4e8600578b8.jpg%3Fv%3D1697435468",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/JAB_CityVelvet_60_c463191f-7e19-4c35-b271-f4e8600578b8.jpg?v=1697435468",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a0f8a26d0012053724"
+      }
+    ],
+    "id": "660ca7a0cbb07e0012d88b6a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-city-velvet-60"
+  },
+  {
+    "slug": "kvadrat-stocked-tonica-2-0233",
+    "name": "Stocked: Tonica 2 0233",
+    "sku": "stocked-tonica-2-0233",
+    "active": true,
+    "description": "<p>Composition: 100% New wool, Durability: 45.000 Martindale, Lightfastness: 6-7, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:35.038Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:35.496Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79f80528c0012da66df",
+          "date_uploaded": "2024-04-03T00:49:35.423Z",
+          "length": 14080,
+          "md5": "5f8d40a0b6f9ff276490884bd09b0e94",
+          "filename": "Kvadrat_Tonica-2_0233_f750a7ca-6c18-4b8b-9898-c3b657d84033.jpg?v=1697435485",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79f80528c0012da66df/5f8d40a0b6f9ff276490884bd09b0e94/Kvadrat_Tonica-2_0233_f750a7ca-6c18-4b8b-9898-c3b657d84033.jpg%3Fv%3D1697435485",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Tonica-2_0233_f750a7ca-6c18-4b8b-9898-c3b657d84033.jpg?v=1697435485",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79f48814b00128e1dfe"
+      }
+    ],
+    "id": "660ca79ff84e63001223ae40",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-tonica-2-0233"
+  },
+  {
+    "slug": "fiji",
+    "name": "Fiji(SP01)",
+    "sku": "12D0010",
+    "active": true,
+    "description": "<p>Composition: 88%Cotton, 10%Polyester, 2%Acrylic, Durability: 45.000 Martindale <br></p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:35.766Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:36.118Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7a01102df00122a186d",
+          "date_uploaded": "2024-04-03T00:49:36.022Z",
+          "length": 10076,
+          "md5": "d23822021ee5c38f40034945b0c8f112",
+          "filename": "Black-White12D0010.jpg?v=1697435473",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7a01102df00122a186d/d23822021ee5c38f40034945b0c8f112/Black-White12D0010.jpg%3Fv%3D1697435473",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Black-White12D0010.jpg?v=1697435473",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7a0a94b1b0012cb04c5"
+      }
+    ],
+    "id": "660ca79f959ec9001293d600",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "fiji"
+  },
+  {
+    "slug": "skandilock-stocked-sheepskin-anthracite",
+    "name": "Stocked: Sheepskin Anthracite",
+    "sku": "Skandilock-Stocked-Sheepskin-Anthracite",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:34.276Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:34.780Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79e699d9c0012d493a4",
+          "date_uploaded": "2024-04-03T00:49:34.695Z",
+          "length": 10776,
+          "md5": "bb0b195c65ee79e85b2b5f80eedc3600",
+          "filename": "Rund_Anthracite.jpg?v=1697435498",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79e699d9c0012d493a4/bb0b195c65ee79e85b2b5f80eedc3600/Rund_Anthracite.jpg%3Fv%3D1697435498",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Anthracite.jpg?v=1697435498",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79effedf90012c77f04"
+      }
+    ],
+    "id": "660ca79e3211080012352c8d",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-stocked-sheepskin-anthracite"
+  },
+  {
+    "slug": "skandilock-sheepskin-anthracite",
+    "name": "Sheepskin Anthracite",
+    "sku": "Skandilock-Sheepskin-Anthracite",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:33.532Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:34.032Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79db9eedc0012b6970e",
+          "date_uploaded": "2024-04-03T00:49:33.952Z",
+          "length": 11604,
+          "md5": "01eb78a980f05502020a62a0212fb87e",
+          "filename": "Rund_Anthracite_3eb0f552-9a32-471d-85d4-6c3717965367.jpg?v=1697435502",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79db9eedc0012b6970e/01eb78a980f05502020a62a0212fb87e/Rund_Anthracite_3eb0f552-9a32-471d-85d4-6c3717965367.jpg%3Fv%3D1697435502",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Anthracite_3eb0f552-9a32-471d-85d4-6c3717965367.jpg?v=1697435502",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79e97b8220012dc6e61"
+      }
+    ],
+    "id": "660ca79df8a26d0012053715",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-sheepskin-anthracite"
+  },
+  {
+    "slug": "black-saddle-leather",
+    "name": "Black Saddle Leather",
+    "sku": "Kvadrat-Black-Saddle-Leather",
+    "active": true,
+    "description": "<p>Grazed leather in eco friendly full vegatable tanning</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:32.062Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:32.544Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79c6549aa001381f4a1",
+          "date_uploaded": "2024-04-03T00:49:32.455Z",
+          "length": 13884,
+          "md5": "06919cdb1c9e29d78f8c3b3e8fe4771e",
+          "filename": "SW_Saddle_Black_3d35e843-bbad-47e3-8e5a-f6d6771d4fa3.jpg?v=1697435508",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79c6549aa001381f4a1/06919cdb1c9e29d78f8c3b3e8fe4771e/SW_Saddle_Black_3d35e843-bbad-47e3-8e5a-f6d6771d4fa3.jpg%3Fv%3D1697435508",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/SW_Saddle_Black_3d35e843-bbad-47e3-8e5a-f6d6771d4fa3.jpg?v=1697435508",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79c6af45d0012a8833c"
+      }
+    ],
+    "id": "660ca79cece85f00123f537f",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "black-saddle-leather"
+  },
+  {
+    "slug": "skandilock-sheepskin-off-white",
+    "name": "Sheepskin Off White",
+    "sku": "Skandilock-Sheepskin-Off-White",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:32.815Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:33.247Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79df8a26d0012053710",
+          "date_uploaded": "2024-04-03T00:49:33.159Z",
+          "length": 7476,
+          "md5": "f7c536b078bb39502c9e1b4f2116fa3d",
+          "filename": "Skandilock_Aussie_Off-White_d5de56eb-1779-4a69-a3d8-1f07f1860ae9.jpg?v=1697435505",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79df8a26d0012053710/f7c536b078bb39502c9e1b4f2116fa3d/Skandilock_Aussie_Off-White_d5de56eb-1779-4a69-a3d8-1f07f1860ae9.jpg%3Fv%3D1697435505",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Skandilock_Aussie_Off-White_d5de56eb-1779-4a69-a3d8-1f07f1860ae9.jpg?v=1697435505",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79d14158f0012bf9cac"
+      }
+    ],
+    "id": "660ca79c2c7054001207e76d",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-sheepskin-off-white"
+  },
+  {
+    "slug": "skandilock-sheepskin-honey",
+    "name": "Sheepskin Honey",
+    "sku": "Skandilock-Sheepskin-Honey",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:31.387Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:31.784Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79bac187f0012fd012d",
+          "date_uploaded": "2024-04-03T00:49:31.708Z",
+          "length": 10424,
+          "md5": "fedc9ed49854ca534bc066ef73faa29f",
+          "filename": "Rund_Honey_ca53243b-18bd-4b34-8ed8-bb2c7c5ea95d.jpg?v=1697435510",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79bac187f0012fd012d/fedc9ed49854ca534bc066ef73faa29f/Rund_Honey_ca53243b-18bd-4b34-8ed8-bb2c7c5ea95d.jpg%3Fv%3D1697435510",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Honey_ca53243b-18bd-4b34-8ed8-bb2c7c5ea95d.jpg?v=1697435510",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79b1102df00122a185e"
+      }
+    ],
+    "id": "660ca79babe9a90012efa957",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-sheepskin-honey"
+  },
+  {
+    "slug": "tonica-2-0383",
+    "name": "Tonica 2 0383",
+    "sku": "Kvadrat-Tonica-2-0383",
+    "active": true,
+    "description": "<p>Composition: 100% New wool, Durability: 45.000 Martindale, Lightfastness: 6-7, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:30.118Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:30.489Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79af9d0100011b49271",
+          "date_uploaded": "2024-04-03T00:49:30.416Z",
+          "length": 17776,
+          "md5": "c66254e09066413d17a19b1e48d80210",
+          "filename": "Kvadrat_Tonica-2_0383_3ece2bc3-9018-4228-bd37-693d8afa494b.jpg?v=1697435513",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79af9d0100011b49271/c66254e09066413d17a19b1e48d80210/Kvadrat_Tonica-2_0383_3ece2bc3-9018-4228-bd37-693d8afa494b.jpg%3Fv%3D1697435513",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Tonica-2_0383_3ece2bc3-9018-4228-bd37-693d8afa494b.jpg?v=1697435513",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79a9a045b00125b309f"
+      }
+    ],
+    "id": "660ca79a4c51cf00112de6d3",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "tonica-2-0383"
+  },
+  {
+    "slug": "stocked-ultra-41599-mn",
+    "name": "Stocked: Ultra 41599 (MN)",
+    "sku": "Sorensen-Leather-Stocked-Ultra-41599-MN",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6-7</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:30.730Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:31.146Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79bf8a26d0012053708",
+          "date_uploaded": "2024-04-03T00:49:31.064Z",
+          "length": 4612,
+          "md5": "da9caff5aa3da216ee23b50ff1576352",
+          "filename": "Sorensen-Leather_Ultra-_Tango__41599_1c6e2e08-293e-4df3-973e-5e752b90ae45.jpg?v=1697435511",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79bf8a26d0012053708/da9caff5aa3da216ee23b50ff1576352/Sorensen-Leather_Ultra-_Tango__41599_1c6e2e08-293e-4df3-973e-5e752b90ae45.jpg%3Fv%3D1697435511",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Sorensen-Leather_Ultra-_Tango__41599_1c6e2e08-293e-4df3-973e-5e752b90ae45.jpg?v=1697435511",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca79b9e6ca20012d17115"
+      }
+    ],
+    "id": "660ca79a18be1b00124fdfb5",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-ultra-41599-mn"
+  },
+  {
+    "slug": "chanel",
+    "name": "Chanel (Bensen)",
+    "sku": "Ben-Chanel-07",
+    "active": true,
+    "description": "<p>Composition: 48% Polyester, 32% Polypropylene, 20% Cotton, Durability: 26.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:29.440Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:29.874Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca799f8a26d0012053704",
+          "date_uploaded": "2024-04-03T00:49:29.743Z",
+          "length": 13072,
+          "md5": "937d52ed8ff5a568a4d255dcce6717a0",
+          "filename": "BEN_Chanel_10_4dd350d7-a546-46b0-bd3e-2bd10dcf4c07.jpg?v=1697435514",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca799f8a26d0012053704/937d52ed8ff5a568a4d255dcce6717a0/BEN_Chanel_10_4dd350d7-a546-46b0-bd3e-2bd10dcf4c07.jpg%3Fv%3D1697435514",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/BEN_Chanel_10_4dd350d7-a546-46b0-bd3e-2bd10dcf4c07.jpg?v=1697435514",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca799c5d5dd0012b4c475"
+      }
+    ],
+    "id": "660ca79919fae7001162a4fa",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "chanel"
+  },
+  {
+    "slug": "kvadraft-fiord-bl",
+    "name": "Fiord 322 (BL)",
+    "sku": "Kvadrat-Fiord-322",
+    "active": true,
+    "description": "<p>Composition: 92% New wool (worsted), 8% Nylon, Durability: 60.000 Martindale, Lightfastness: 6, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:28.593Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:29.152Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca798efb0800012e715b8",
+          "date_uploaded": "2024-04-03T00:49:28.997Z",
+          "length": 14088,
+          "md5": "131b265f143f71c5b56b5c696b90efc5",
+          "filename": "F_1279_C0322_W24.tif_09dc0c20-99e8-4c07-b44f-af8722e7c9a9.jpg?v=1697435516",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca798efb0800012e715b8/131b265f143f71c5b56b5c696b90efc5/F_1279_C0322_W24.tif_09dc0c20-99e8-4c07-b44f-af8722e7c9a9.jpg%3Fv%3D1697435516",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/F_1279_C0322_W24.tif_09dc0c20-99e8-4c07-b44f-af8722e7c9a9.jpg?v=1697435516",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca799fc22700012548d14"
+      }
+    ],
+    "id": "660ca7984e85020012c76ae7",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadraft-fiord-bl"
+  },
+  {
+    "slug": "kvadrat-fiord-151-bl",
+    "name": "Fiord 151 (BL)",
+    "sku": "Fiord-151",
+    "active": true,
+    "description": "<p>Composition: 92% New wool (worsted), 8% Nylon, Durability: 60.000 Martindale, Lightfastness: 6, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:27.045Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:27.632Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79763bd5e0011680abf",
+          "date_uploaded": "2024-04-03T00:49:27.551Z",
+          "length": 21288,
+          "md5": "3226e6ff7faa0f8b7b6ab105dd3e92a4",
+          "filename": "Kvadrat_Fiord_151_6373e726-d307-4f86-ab07-346af0f82a08.jpg?v=1697435518",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79763bd5e0011680abf/3226e6ff7faa0f8b7b6ab105dd3e92a4/Kvadrat_Fiord_151_6373e726-d307-4f86-ab07-346af0f82a08.jpg%3Fv%3D1697435518",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Fiord_151_6373e726-d307-4f86-ab07-346af0f82a08.jpg?v=1697435518",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7979262e900121ef32f"
+      }
+    ],
+    "id": "660ca7979e6ca20012d17106",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-fiord-151-bl"
+  },
+  {
+    "slug": "kvadrat-fiord-271",
+    "name": "Fiord 271 (BL)",
+    "sku": "Kvadrat-Fiord-271",
+    "active": true,
+    "description": "<p>Composition: 92% New wool (worsted), 8% Nylon, Durability: 60.000 Martindale, Lightfastness: 6, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:27.896Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:28.247Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79836117900120ff716",
+          "date_uploaded": "2024-04-03T00:49:28.173Z",
+          "length": 21720,
+          "md5": "4625ed667ae43045bd2a99afa9c9e0cf",
+          "filename": "Kvadrat_Fiord_271_51891f20-b0e1-4734-9978-12e9f10f2b17.jpg?v=1697435517",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79836117900120ff716/4625ed667ae43045bd2a99afa9c9e0cf/Kvadrat_Fiord_271_51891f20-b0e1-4734-9978-12e9f10f2b17.jpg%3Fv%3D1697435517",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Fiord_271_51891f20-b0e1-4734-9978-12e9f10f2b17.jpg?v=1697435517",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca798368f1100120363e5"
+      }
+    ],
+    "id": "660ca79763bd5e0011680ac3",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-fiord-271"
+  },
+  {
+    "slug": "kvadrat-stocked-hallingdal-65-764",
+    "name": "Stocked: Hallingdal 65 764",
+    "sku": "HAL-65-764",
+    "active": true,
+    "description": "<p>Composition: 70% New wool, 30% Viscose, Durability: 100.000 Martindale, Lightfastness: 7, Sustainability: Complies with EU ecolabel \"The Flower\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:26.138Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:26.553Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7963211080012352c82",
+          "date_uploaded": "2024-04-03T00:49:26.478Z",
+          "length": 14532,
+          "md5": "25f33ead46853e57f6f4513838a445b5",
+          "filename": "Kvadrat_Hallingdal-65_764_340f2ac6-fdca-4593-a4dc-cd34e92f917a.jpg?v=1697435520",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7963211080012352c82/25f33ead46853e57f6f4513838a445b5/Kvadrat_Hallingdal-65_764_340f2ac6-fdca-4593-a4dc-cd34e92f917a.jpg%3Fv%3D1697435520",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Hallingdal-65_764_340f2ac6-fdca-4593-a4dc-cd34e92f917a.jpg?v=1697435520",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca796ffedf90012c77edd"
+      }
+    ],
+    "id": "660ca796acbdf00012a6ab5c",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-stocked-hallingdal-65-764"
+  },
+  {
+    "slug": "bensen-shearling",
+    "name": "Shearling (Bensen)",
+    "sku": "Ben-Shearling",
+    "active": true,
+    "description": "<p>Leather</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:25.379Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:25.873Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca795bf090100126d8f1b",
+          "date_uploaded": "2024-04-03T00:49:25.706Z",
+          "length": 5928,
+          "md5": "f88f7dfecd4d628d3c03d07f82ba7031",
+          "filename": "image_b1719140-fb4f-496c-8f4d-466c45cac653.jpg?v=1697435520",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca795bf090100126d8f1b/f88f7dfecd4d628d3c03d07f82ba7031/image_b1719140-fb4f-496c-8f4d-466c45cac653.jpg%3Fv%3D1697435520",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/image_b1719140-fb4f-496c-8f4d-466c45cac653.jpg?v=1697435520",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7956549aa001381f48d"
+      }
+    ],
+    "id": "660ca795efb0800012e715a2",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "bensen-shearling"
+  },
+  {
+    "slug": "bensen-savana",
+    "name": "Savana (Bensen)",
+    "sku": "Bensen-Savana-122",
+    "active": true,
+    "description": "<p>Composition: 34% Polyester, 31% New wool, 26% Acrylic,\n4% Cotton, 3% Nylon, 2% Linen, Durability: 45,000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:24.615Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:25.089Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7942c7054001207e762",
+          "date_uploaded": "2024-04-03T00:49:25.000Z",
+          "length": 13604,
+          "md5": "1def001a755b07e3f88f99b62cc4ded5",
+          "filename": "952.jpg?v=1697435521",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7942c7054001207e762/1def001a755b07e3f88f99b62cc4ded5/952.jpg%3Fv%3D1697435521",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/952.jpg?v=1697435521",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca795ece85f00123f536c"
+      }
+    ],
+    "id": "660ca794699d9c0012d4934b",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "bensen-savana"
+  },
+  {
+    "slug": "kvadrat-fiord-171-bl",
+    "name": "Fiord 171 (BL)",
+    "sku": "Fiord-171",
+    "active": true,
+    "description": "<p>Composition: 92% New wool (worsted), 8% Nylon, Durability: 60.000 Martindale, Lightfastness: 6, Sustainability: Natural fibres / Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:23.891Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:24.364Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca79414158f0012bf9c81",
+          "date_uploaded": "2024-04-03T00:49:24.278Z",
+          "length": 21876,
+          "md5": "c466914f916077d52e08b672004e0d32",
+          "filename": "Kvadrat_Fiord_171_18fb07ff-ff3d-493d-9cfc-4cda43af4659.jpg?v=1697435522",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca79414158f0012bf9c81/c466914f916077d52e08b672004e0d32/Kvadrat_Fiord_171_18fb07ff-ff3d-493d-9cfc-4cda43af4659.jpg%3Fv%3D1697435522",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Fiord_171_18fb07ff-ff3d-493d-9cfc-4cda43af4659.jpg?v=1697435522",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca794511cd0001295c5be"
+      }
+    ],
+    "id": "660ca79397b8220012dc6e43",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-fiord-171-bl"
+  },
+  {
+    "slug": "muuto-stocked-divina-984-muuto",
+    "name": "Stocked: Divina 984 (Muuto)",
+    "sku": "Muuto-Kvadrat-Divina-3-984",
+    "active": true,
+    "description": "<p>Composition: 100% New Wool, Durability: 45.000 Martindale, Lightfastness: 1-5, Sustainability: Complies with EU ecolabel \"The Flower\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:23.252Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:23.656Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7934e85020012c76ada",
+          "date_uploaded": "2024-04-03T00:49:23.583Z",
+          "length": 16756,
+          "md5": "fbf825af697ed30987c527a7a55cd708",
+          "filename": "Kvadrat_Divina-3_984_30028198-0943-477c-816f-7a787d0546d7.jpg?v=1697435543",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7934e85020012c76ada/fbf825af697ed30987c527a7a55cd708/Kvadrat_Divina-3_984_30028198-0943-477c-816f-7a787d0546d7.jpg%3Fv%3D1697435543",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Divina-3_984_30028198-0943-477c-816f-7a787d0546d7.jpg?v=1697435543",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca793a3d28f001208f511"
+      }
+    ],
+    "id": "660ca7935c361f0012330816",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "muuto-stocked-divina-984-muuto"
+  },
+  {
+    "slug": "bensen-barnum-1",
+    "name": "Barnum (Bensen)",
+    "sku": "Ben-Barnum-24",
+    "active": true,
+    "description": "<p>Composition: 45% Cotton, 15% wool, 13% acetate, 19% viscose, 8% nylon, Durability: 60.000 Martindale, Pilling: 4, Lightfastness: 5</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:22.516Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:22.939Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7929a045b00125b308f",
+          "date_uploaded": "2024-04-03T00:49:22.852Z",
+          "length": 11556,
+          "md5": "e29b8f9c14d43aea3aeee405eedd7e15",
+          "filename": "06_2.jpg?v=1697435544",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7929a045b00125b308f/e29b8f9c14d43aea3aeee405eedd7e15/06_2.jpg%3Fv%3D1697435544",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/06_2.jpg?v=1697435544",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7927da3c00012a77391"
+      }
+    ],
+    "id": "660ca792cf0a5e0012040d83",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "bensen-barnum-1"
+  },
+  {
+    "slug": "deder-svevo-gubi",
+    "name": "Svevo - Gubi",
+    "sku": "DED-SVE-001",
+    "active": true,
+    "description": "<p>Composition: 44% Linen, 26% Wool, 18% Viscose, 12% Nylon, Durability: 40.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:21.840Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:22.274Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca792a3d28f001208f50b",
+          "date_uploaded": "2024-04-03T00:49:22.184Z",
+          "length": 10864,
+          "md5": "c81e2c5360d5beb51c60f7d477aaa228",
+          "filename": "10046514_dedar_svevo_004_fpcopy.jpg?v=1697435544",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca792a3d28f001208f50b/c81e2c5360d5beb51c60f7d477aaa228/10046514_dedar_svevo_004_fpcopy.jpg%3Fv%3D1697435544",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10046514_dedar_svevo_004_fpcopy.jpg?v=1697435544",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca792a94b1b0012cb04a6"
+      }
+    ],
+    "id": "660ca791d9dd0100129f10d2",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "deder-svevo-gubi"
+  },
+  {
+    "slug": "skandilock-sheepskin-green-tea",
+    "name": "Sheepskin Green Tea",
+    "sku": "Skandilock-Sheepskin-green-tea",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:21.182Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:21.582Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca791d9dd0100129f10cc",
+          "date_uploaded": "2024-04-03T00:49:21.497Z",
+          "length": 12316,
+          "md5": "520ac385ee2b34a081962364b4b5fbd2",
+          "filename": "Rund_Green-Tea_036c23e3-aa35-4eba-baa1-2c9413395206.jpg?v=1697435545",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca791d9dd0100129f10cc/520ac385ee2b34a081962364b4b5fbd2/Rund_Green-Tea_036c23e3-aa35-4eba-baa1-2c9413395206.jpg%3Fv%3D1697435545",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Rund_Green-Tea_036c23e3-aa35-4eba-baa1-2c9413395206.jpg?v=1697435545",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca791047c2b0012b3db68"
+      }
+    ],
+    "id": "660ca791959ec9001293d5d0",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-sheepskin-green-tea"
+  },
+  {
+    "slug": "freja-chs",
+    "name": "Freja (CHS)",
+    "sku": "Carl-Thor-2-301",
+    "active": true,
+    "description": "Leather",
+    "price": null,
+    "sale": false,
+    "bundle": false,
+    "meta_title": "Freja (CHS) | Buy Carl Hansen & Søn online at A+R",
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:19.737Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T14:34:09.917Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": null,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660d68e1f3ab960012ce53d7",
+          "date_uploaded": "2024-04-03T14:34:09.811Z",
+          "length": 4944,
+          "md5": "7e2fbcf91b2e4f2d5ef3e753c764fc67",
+          "filename": "Sort2002.jpg?v=1656055778",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660d68e1f3ab960012ce53d7/7e2fbcf91b2e4f2d5ef3e753c764fc67/Sort2002.jpg%3Fv%3D1656055778",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Sort2002.jpg?v=1656055778",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca790854c850012b1d4e2"
+      }
+    ],
+    "id": "660ca78f14e3fb0012e8955f",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "freja-chs"
+  },
+  {
+    "slug": "jab-hot-madison-reboot-gub",
+    "name": "Hot Madison Reboot - Gub",
+    "sku": "JAB-HOT-CH1249073",
+    "active": true,
+    "description": "<p>Composition: 63% Cotton, 37% Linen, Durability: 55.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:18.273Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:18.725Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78ee383b60012846a6c",
+          "date_uploaded": "2024-04-03T00:49:18.569Z",
+          "length": 6948,
+          "md5": "1acf44808bb6ff7275cdf0516ac5544d",
+          "filename": "10019665_jab_hot-madison-reboot_988_fpcopy.jpg?v=1697435563",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78ee383b60012846a6c/1acf44808bb6ff7275cdf0516ac5544d/10019665_jab_hot-madison-reboot_988_fpcopy.jpg%3Fv%3D1697435563",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/10019665_jab_hot-madison-reboot_988_fpcopy.jpg?v=1697435563",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78ecc87800012116df4"
+      }
+    ],
+    "id": "660ca78ef8b5f300128b8ffe",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "jab-hot-madison-reboot-gub"
+  },
+  {
+    "slug": "thor-chs",
+    "name": "Thor (CHS)",
+    "sku": "Carl-Thor-300",
+    "active": true,
+    "description": "Leather",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:18.969Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:19.439Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78f4af4b5001222b159",
+          "date_uploaded": "2024-04-03T00:49:19.300Z",
+          "length": 2852,
+          "md5": "0f2979800eef08e0c2a45ba985a9632b",
+          "filename": "390.jpg?v=1697435562",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78f4af4b5001222b159/0f2979800eef08e0c2a45ba985a9632b/390.jpg%3Fv%3D1697435562",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/390.jpg?v=1697435562",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78f05351e00116d9114"
+      }
+    ],
+    "id": "660ca78e36117900120ff6f9",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "thor-chs"
+  },
+  {
+    "slug": "loke-chs",
+    "name": "Loke (CHS)",
+    "sku": "Carl-Loki-7050",
+    "active": true,
+    "description": "Leather",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:17.520Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:18.024Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78d97b8220012dc6e22",
+          "date_uploaded": "2024-04-03T00:49:17.895Z",
+          "length": 3832,
+          "md5": "2e68ee127ba3b8b590854d3a5c9484ce",
+          "filename": "7766.jpg?v=1697435565",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78d97b8220012dc6e22/2e68ee127ba3b8b590854d3a5c9484ce/7766.jpg%3Fv%3D1697435565",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/7766.jpg?v=1697435565",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78e699d9c0012d4932a"
+      }
+    ],
+    "id": "660ca78dcbb07e0012d88b3a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "loke-chs"
+  },
+  {
+    "slug": "moooi-fiord",
+    "name": "Fiord (MO)",
+    "sku": "MO-Fiord-101",
+    "active": true,
+    "description": "<p>Composition: 92% Virgin wool, 8% Polyamid, Durability: 60.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:16.906Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:17.264Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78db9962b0012f378bf",
+          "date_uploaded": "2024-04-03T00:49:17.186Z",
+          "length": 13036,
+          "md5": "235d8636f1123614b1082080dcc25cd8",
+          "filename": "Kvadrat_Fiord_101_55043ccc-f40d-48a6-8098-c2e1b8d11f9c.jpg?v=1697435575",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78db9962b0012f378bf/235d8636f1123614b1082080dcc25cd8/Kvadrat_Fiord_101_55043ccc-f40d-48a6-8098-c2e1b8d11f9c.jpg%3Fv%3D1697435575",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Fiord_101_55043ccc-f40d-48a6-8098-c2e1b8d11f9c.jpg?v=1697435575",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78dd9dd0100129f10bf"
+      }
+    ],
+    "id": "660ca78c58ff730012164191",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "moooi-fiord"
+  },
+  {
+    "slug": "stocked-abbracci",
+    "name": "Stocked: Abbracci Oystar",
+    "sku": "STCK-ABBRACCI-OYSTAR",
+    "active": true,
+    "description": "<p>Composition: 78% acrylic, 20% polyester, 2% viscose, Martindale: 60</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:16.196Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:16.652Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78ccd2e4100127a54e8",
+          "date_uploaded": "2024-04-03T00:49:16.508Z",
+          "length": 11564,
+          "md5": "4055de77c2960172c1dd40b2ab7b8a63",
+          "filename": "abbracci-taupe-thumb-512_1.jpg?v=1697435576",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78ccd2e4100127a54e8/4055de77c2960172c1dd40b2ab7b8a63/abbracci-taupe-thumb-512_1.jpg%3Fv%3D1697435576",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/abbracci-taupe-thumb-512_1.jpg?v=1697435576",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78c959ec9001293d5bb"
+      }
+    ],
+    "id": "660ca78c368f1100120363c1",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-abbracci"
+  },
+  {
+    "slug": "dedar-chevron",
+    "name": "Chevron",
+    "sku": "DEDAR-CHEVRON-2",
+    "active": true,
+    "description": "<p>Composition: 100% Polyethylene Terephthalate, Durability: 40.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:15.284Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:15.911Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78bffce1900121792a6",
+          "date_uploaded": "2024-04-03T00:49:15.586Z",
+          "length": 11632,
+          "md5": "bfcb84220378dfbf1781aa0d4b3a60ac",
+          "filename": "media1a5doee510094245_dedar_chevron_outdoor_fr_034_fp-1920.webp?v=1697435576",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78bffce1900121792a6/bfcb84220378dfbf1781aa0d4b3a60ac/media1a5doee510094245_dedar_chevron_outdoor_fr_034_fp-1920.webp%3Fv%3D1697435576",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/media1a5doee510094245_dedar_chevron_outdoor_fr_034_fp-1920.webp?v=1697435576",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78b14e3fb0012e89556"
+      }
+    ],
+    "id": "660ca78bcc87800012116de5",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "dedar-chevron"
+  },
+  {
+    "slug": "limonta-udine",
+    "name": "Udine",
+    "sku": "LIMONTA-UDINE-12",
+    "active": true,
+    "description": "<p>Composition: 86% polypropylene 14% polyester, Durability: 50.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:14.606Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:15.030Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78a6549aa001381f478",
+          "date_uploaded": "2024-04-03T00:49:14.905Z",
+          "length": 5052,
+          "md5": "caf18986e00f84f1b0082f7c3d27bcf1",
+          "filename": "mediadm1ffswq10091234_limonta_udine_12_fp-1920.webp?v=1697435579",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78a6549aa001381f478/caf18986e00f84f1b0082f7c3d27bcf1/mediadm1ffswq10091234_limonta_udine_12_fp-1920.webp%3Fv%3D1697435579",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/mediadm1ffswq10091234_limonta_udine_12_fp-1920.webp?v=1697435579",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78bf9d0100011b49248"
+      }
+    ],
+    "id": "660ca78acbb07e0012d88b28",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "limonta-udine"
+  },
+  {
+    "slug": "stocked-velvet-raven",
+    "name": "Stocked: Velvet Raven",
+    "sku": "MOO-VELVET-RAVEN",
+    "active": true,
+    "description": "<div class=\"mb-3\">\n<div class=\"text-secondary\">Durability:</div>\n100.000 Martindale</div>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:13.330Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:14.248Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca789cfbf540012f416f9",
+          "date_uploaded": "2024-04-03T00:49:13.648Z",
+          "length": 13428,
+          "md5": "ad3a0af9f7d657643bd409e188cb0917",
+          "filename": "ea-menagerie-velvet_raven-thumb-512_1.jpg?v=1697435580",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca789cfbf540012f416f9/ad3a0af9f7d657643bd409e188cb0917/ea-menagerie-velvet_raven-thumb-512_1.jpg%3Fv%3D1697435580",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/ea-menagerie-velvet_raven-thumb-512_1.jpg?v=1697435580",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78ad8543200123c79eb"
+      }
+    ],
+    "id": "660ca7899e6ca20012d170d9",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-velvet-raven"
+  },
+  {
+    "slug": "dedar-libera",
+    "name": "Libera",
+    "sku": "DEDAR-LIBERA-1",
+    "active": true,
+    "description": "<p>Composition: 100% Polypropylene, Durability: 40.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:12.557Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:13.071Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7880788890012ab2070",
+          "date_uploaded": "2024-04-03T00:49:12.932Z",
+          "length": 11324,
+          "md5": "7bdd3c1553b9788fdefea10fb3b77f48",
+          "filename": "media2d3f524g10091254_dedar_libera_003_fp-1920.webp?v=1697435581",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7880788890012ab2070/7bdd3c1553b9788fdefea10fb3b77f48/media2d3f524g10091254_dedar_libera_003_fp-1920.webp%3Fv%3D1697435581",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/media2d3f524g10091254_dedar_libera_003_fp-1920.webp?v=1697435581",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca789d8543200123c79e0"
+      }
+    ],
+    "id": "660ca788cbb07e0012d88b1d",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "dedar-libera"
+  },
+  {
+    "slug": "kvadrat-moss-kcs",
+    "name": "Moss (KCS)",
+    "sku": "MOS-KCS-002",
+    "active": true,
+    "description": "<p>Composition: 52% Cotton, 22% Viscose, 14% Polyacrylic, 6% Linen, 3% Nylon, 3% Polyester, Durability: 50,000 Martindale, Lightfastness: 7</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:11.896Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:12.296Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca788511cd0001295c5af",
+          "date_uploaded": "2024-04-03T00:49:12.215Z",
+          "length": 14996,
+          "md5": "95609de2afd8f1c9fe9f502524c62e85",
+          "filename": "F_600664_C0002_W24_tif.jpg?v=1697435588",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca788511cd0001295c5af/95609de2afd8f1c9fe9f502524c62e85/F_600664_C0002_W24_tif.jpg%3Fv%3D1697435588",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/F_600664_C0002_W24_tif.jpg?v=1697435588",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca788ac187f0012fd00d7"
+      }
+    ],
+    "id": "660ca787d46b2c00123936dd",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-moss-kcs"
+  },
+  {
+    "slug": "sif-chs",
+    "name": "Sif (CHS)",
+    "sku": "Carl-Sif-90",
+    "active": true,
+    "description": "Leather",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:11.240Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:11.624Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca787368f1100120363b7",
+          "date_uploaded": "2024-04-03T00:49:11.546Z",
+          "length": 4812,
+          "md5": "d03dcd38fd8fef0051db7f143da0fdda",
+          "filename": "98_f876a8b6-ac69-48b9-ad24-99f2905badde.jpg?v=1697435597",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca787368f1100120363b7/d03dcd38fd8fef0051db7f143da0fdda/98_f876a8b6-ac69-48b9-ad24-99f2905badde.jpg%3Fv%3D1697435597",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/98_f876a8b6-ac69-48b9-ad24-99f2905badde.jpg?v=1697435597",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca78714e3fb0012e89527"
+      }
+    ],
+    "id": "660ca78733aa8f0012b2b57c",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "sif-chs"
+  },
+  {
+    "slug": "plain-gubi",
+    "name": "Plain (Gubi)",
+    "sku": "GUB-PLAI-1",
+    "active": true,
+    "description": "<p>Composition: 40% Viscose, 30% Wool, 20% Linen, 10% Nylon, Durability: 50.000</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:10.600Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:10.991Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca786ffedf90012c77eaf",
+          "date_uploaded": "2024-04-03T00:49:10.917Z",
+          "length": 5460,
+          "md5": "6beade65c5e377844f8b1031ffd61ef4",
+          "filename": "enzo-degli-angiuoni-plain_0001_fp_1.jpg?v=1697435601",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca786ffedf90012c77eaf/6beade65c5e377844f8b1031ffd61ef4/enzo-degli-angiuoni-plain_0001_fp_1.jpg%3Fv%3D1697435601",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/enzo-degli-angiuoni-plain_0001_fp_1.jpg?v=1697435601",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca786e55d270012a766b4"
+      }
+    ],
+    "id": "660ca786ce86890012f691ef",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "plain-gubi"
+  },
+  {
+    "slug": "capture-chs",
+    "name": "Capture (CHS)",
+    "sku": "Carl-Gabriel-capture-4102",
+    "active": true,
+    "description": "<p>Composition: 85% Wools from New Zealand, 15% Polyamide<br>Durability: 200.000 Martindale<br>Lightfastness: 5-7<br>Sustainability: Oeko-Tex, EU Ecolabel</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:09.210Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:09.657Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7856af45d0012a8830e",
+          "date_uploaded": "2024-04-03T00:49:09.581Z",
+          "length": 20008,
+          "md5": "555b44558bd7cfa2aaf5d0fb214aef2d",
+          "filename": "Gabriel_Capture_04102_92354214-4661-4a04-8be3-57b826bf21b7.jpg?v=1697435604",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7856af45d0012a8830e/555b44558bd7cfa2aaf5d0fb214aef2d/Gabriel_Capture_04102_92354214-4661-4a04-8be3-57b826bf21b7.jpg%3Fv%3D1697435604",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Gabriel_Capture_04102_92354214-4661-4a04-8be3-57b826bf21b7.jpg?v=1697435604",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7859e6ca20012d170cb"
+      }
+    ],
+    "id": "660ca7853399200012d3f773",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "capture-chs"
+  },
+  {
+    "slug": "saddle-leather-chs",
+    "name": "Saddle Leather (CHS)",
+    "sku": "Carl-Saddle-Natural",
+    "active": true,
+    "description": "Leather",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:09.907Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:10.357Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca786a94b1b0012cb0489",
+          "date_uploaded": "2024-04-03T00:49:10.274Z",
+          "length": 2384,
+          "md5": "1d442cc9974f1c313824dc3b226a6216",
+          "filename": "Natural_ff0b1d7b-78bd-4fdf-9e9a-6ecb59b8702e.jpg?v=1697435603",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca786a94b1b0012cb0489/1d442cc9974f1c313824dc3b226a6216/Natural_ff0b1d7b-78bd-4fdf-9e9a-6ecb59b8702e.jpg%3Fv%3D1697435603",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Natural_ff0b1d7b-78bd-4fdf-9e9a-6ecb59b8702e.jpg?v=1697435603",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7860e6dd900123ef614"
+      }
+    ],
+    "id": "660ca78519fae7001162a4d1",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "saddle-leather-chs"
+  },
+  {
+    "slug": "colline-2-mn",
+    "name": "Colline 2 (MN)",
+    "sku": "Kvadrat-Colline 2-127",
+    "active": true,
+    "description": "<p>Composition: 75% New Wool, 17% Acrylic, 8% Nylon, Durability: 100.000 Martindale, Lightfastness: 6, Sustainability: Natural fibers/Sustainable resource</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:08.527Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:57.978Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7b5025f6d0012d81e5e",
+          "date_uploaded": "2024-04-03T00:49:57.901Z",
+          "length": 18424,
+          "md5": "f675447ccb826de21a4a8d8322dde595",
+          "filename": "F_1217_C0127_W24.tif_6898a05a-ca8d-4576-81d7-30dfa10167e9.jpg?v=1697435364",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7b5025f6d0012d81e5e/f675447ccb826de21a4a8d8322dde595/F_1217_C0127_W24.tif_6898a05a-ca8d-4576-81d7-30dfa10167e9.jpg%3Fv%3D1697435364",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/F_1217_C0127_W24.tif_6898a05a-ca8d-4576-81d7-30dfa10167e9.jpg?v=1697435364",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca784f9d0100011b49235"
+      }
+    ],
+    "id": "660ca78433aa8f0012b2b56a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "colline-2-mn"
+  },
+  {
+    "slug": "limonta-lorkey",
+    "name": "Lorkey",
+    "sku": "LIMONTA-LORKEY-40",
+    "active": true,
+    "description": "<p>Composition: 88% Polypropylene, 12% Polyester, Durability: 36.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:07.739Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:08.272Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca784f9d0100011b4922e",
+          "date_uploaded": "2024-04-03T00:49:08.189Z",
+          "length": 8460,
+          "md5": "0547f9c2be64e46271a2d9d4c301a3df",
+          "filename": "mediariuc4syq10091250_limonta_lorkey_03_fp-1920.jpg?v=1697435608",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca784f9d0100011b4922e/0547f9c2be64e46271a2d9d4c301a3df/mediariuc4syq10091250_limonta_lorkey_03_fp-1920.jpg%3Fv%3D1697435608",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/mediariuc4syq10091250_limonta_lorkey_03_fp-1920.jpg?v=1697435608",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca784fc22700012548ceb"
+      }
+    ],
+    "id": "660ca7833211080012352c62",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "limonta-lorkey"
+  },
+  {
+    "slug": "kvadrat-hallingdal-gubi",
+    "name": "Hallingdal (Gubi)",
+    "sku": "KVA-HAL-GUB-103",
+    "active": true,
+    "description": "<p>Composition: 70% New wool, 30% Viscose, Durability: 100.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:06.808Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:07.239Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca78348a1fb001239eae2",
+          "date_uploaded": "2024-04-03T00:49:07.158Z",
+          "length": 17116,
+          "md5": "1d349af50befe0414d35019fe52cc2ec",
+          "filename": "Kvadrat_Hallingdal-65_103_c58407bf-18fc-4d39-8175-784a1329a691.jpg?v=1697435610",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca78348a1fb001239eae2/1d349af50befe0414d35019fe52cc2ec/Kvadrat_Hallingdal-65_103_c58407bf-18fc-4d39-8175-784a1329a691.jpg%3Fv%3D1697435610",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Hallingdal-65_103_c58407bf-18fc-4d39-8175-784a1329a691.jpg?v=1697435610",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca783d9dd0100129f109e"
+      }
+    ],
+    "id": "660ca782a07501001243e2a4",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-hallingdal-gubi"
+  },
+  {
+    "slug": "kvadrat-canvas-gubi",
+    "name": "Canvas (Gubi)",
+    "sku": "KVA-CAN-GUB-124",
+    "active": true,
+    "description": "<p>Composition: 90% New wool (worsted), 10% Nylon. , Durability: 100.000 Martindale, Lightfastness: 6, Sustainability: Complies with EU ecolabel \"The Flower.\"</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:06.055Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:06.534Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca782efb0800012e71580",
+          "date_uploaded": "2024-04-03T00:49:06.385Z",
+          "length": 18012,
+          "md5": "187f6065ae83045c51c7a8781835b550",
+          "filename": "Kvadrat_Canvas-2_124_1e335477-a396-4d23-880e-051dea897d30.jpg?v=1697435618",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca782efb0800012e71580/187f6065ae83045c51c7a8781835b550/Kvadrat_Canvas-2_124_1e335477-a396-4d23-880e-051dea897d30.jpg%3Fv%3D1697435618",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Kvadrat_Canvas-2_124_1e335477-a396-4d23-880e-051dea897d30.jpg?v=1697435618",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca782959ec9001293d5a6"
+      }
+    ],
+    "id": "660ca7820788890012ab2051",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "kvadrat-canvas-gubi"
+  },
+  {
+    "slug": "skandilock-sheepskin-espresso",
+    "name": "Sheepskin Espresso",
+    "sku": "Skandilock-Sheepskin-Espresso",
+    "active": true,
+    "description": "<p>\n  Composition: 100% Sheepskin\n</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:05.363Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:05.794Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca781ffce190012179299",
+          "date_uploaded": "2024-04-03T00:49:05.715Z",
+          "length": 10896,
+          "md5": "8759f73e17f82d8c1ffc3825ecd9fe85",
+          "filename": "Skandilock_Aussie_Espresso_52b95c0d-c8ef-4464-9a81-65ce2070f02b.jpg?v=1697435620",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca781ffce190012179299/8759f73e17f82d8c1ffc3825ecd9fe85/Skandilock_Aussie_Espresso_52b95c0d-c8ef-4464-9a81-65ce2070f02b.jpg%3Fv%3D1697435620",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Skandilock_Aussie_Espresso_52b95c0d-c8ef-4464-9a81-65ce2070f02b.jpg?v=1697435620",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca781368f1100120363a6"
+      }
+    ],
+    "id": "660ca7818469da001254f4a9",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "skandilock-sheepskin-espresso"
+  },
+  {
+    "slug": "nevotex-dakar-0329-mn",
+    "name": "Dakar 0329 (MN)",
+    "sku": "Nevotex-Dakar-MN-0329",
+    "active": true,
+    "description": "<p>Durability: 50.000 Martindale, Lightfastness: 5</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:04.532Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:05.084Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca780511cd0001295c59a",
+          "date_uploaded": "2024-04-03T00:49:04.873Z",
+          "length": 6556,
+          "md5": "d3129e36f45e3ffdc154b6b7393e1c45",
+          "filename": "Nevotex_Dakar_0329_88c72457-65e1-409c-8b2c-69def613de15.jpg?v=1697435637",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca780511cd0001295c59a/d3129e36f45e3ffdc154b6b7393e1c45/Nevotex_Dakar_0329_88c72457-65e1-409c-8b2c-69def613de15.jpg%3Fv%3D1697435637",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/Nevotex_Dakar_0329_88c72457-65e1-409c-8b2c-69def613de15.jpg?v=1697435637",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca781cc87800012116dc7"
+      }
+    ],
+    "id": "660ca780da273f0013aa2664",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "nevotex-dakar-0329-mn"
+  },
+  {
+    "slug": "grand-linen-fre",
+    "name": "Grand Linen (FRE)",
+    "sku": "GRAND-LINEN-24",
+    "active": true,
+    "description": "<p>Composition: 100% Linen, Lightfastness: 3-4 , Durability: 30.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:03.350Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:03.710Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77fa94b1b0012cb047e",
+          "date_uploaded": "2024-04-03T00:49:03.641Z",
+          "length": 15248,
+          "md5": "09b2a93f38d0b10a80a2c1512bd25a19",
+          "filename": "grandlinen24.jpg?v=1697435751",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77fa94b1b0012cb047e/09b2a93f38d0b10a80a2c1512bd25a19/grandlinen24.jpg%3Fv%3D1697435751",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/grandlinen24.jpg?v=1697435751",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77fcf0a5e0012040d4c"
+      }
+    ],
+    "id": "660ca77fed4b210012be7099",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "grand-linen-fre"
+  },
+  {
+    "slug": "stocked-spectrum-agave-30098",
+    "name": "Stocked: Spectrum Agave 30098",
+    "sku": "Kvadrat-Agave-30098",
+    "active": true,
+    "description": "<p>Composition: 100% Grain Leather, Lightfastness: 6</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:02.652Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:03.076Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77e6549aa001381f45d",
+          "date_uploaded": "2024-04-03T00:49:02.983Z",
+          "length": 9528,
+          "md5": "f89a64ac6cef478f3d6bdf0d1e5d2e48",
+          "filename": "SPECTRUM-agave_ee942fb7-7b9e-4156-9a1d-bfbf3e3c68ba.jpg?v=1697435778",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77e6549aa001381f45d/f89a64ac6cef478f3d6bdf0d1e5d2e48/SPECTRUM-agave_ee942fb7-7b9e-4156-9a1d-bfbf3e3c68ba.jpg%3Fv%3D1697435778",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/SPECTRUM-agave_ee942fb7-7b9e-4156-9a1d-bfbf3e3c68ba.jpg?v=1697435778",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77fbf090100126d8efb"
+      }
+    ],
+    "id": "660ca77ed8543200123c79cd",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "stocked-spectrum-agave-30098"
+  },
+  {
+    "slug": "capture-fre",
+    "name": "Capture (FRE)",
+    "sku": "CAPTURE-FRE-5201",
+    "active": true,
+    "description": "<p>Composition: <br>85% New Zealand wool, 15% polyamide <br>Lightfastness: <br>5-7 <br>Durability: <br>100.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:01.165Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:01.572Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77d63bd5e0011680a6d",
+          "date_uploaded": "2024-04-03T00:49:01.498Z",
+          "length": 4768,
+          "md5": "839729c102fbc1c94ac293f8cfde8803",
+          "filename": "4101.jpg?v=1697435847",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77d63bd5e0011680a6d/839729c102fbc1c94ac293f8cfde8803/4101.jpg%3Fv%3D1697435847",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/4101.jpg?v=1697435847",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77d3211080012352c4d"
+      }
+    ],
+    "id": "660ca77dbf090100126d8eed",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "capture-fre"
+  },
+  {
+    "slug": "cotil-863-fre",
+    "name": "Cotil 863 (FRE)",
+    "sku": "COTIL-863-FRE-53938",
+    "active": true,
+    "description": "<p>Composition: 50% wool, 50% cotton , Lightfastness: 5-6, Durability: 30.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:01.819Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:02.390Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77e511cd0001295c595",
+          "date_uploaded": "2024-04-03T00:49:02.144Z",
+          "length": 6020,
+          "md5": "416aee1aa884ee3d3ce5e263b744f1d2",
+          "filename": "53932.jpg?v=1697435842",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77e511cd0001295c595/416aee1aa884ee3d3ce5e263b744f1d2/53932.jpg%3Fv%3D1697435842",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/53932.jpg?v=1697435842",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77e63bd5e0011680a72"
+      }
+    ],
+    "id": "660ca77d368f11001203639a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "cotil-863-fre"
+  },
+  {
+    "slug": "natural-linen-fre",
+    "name": "Natural Linen (FRE)",
+    "sku": "NAT-LIN-0003",
+    "active": true,
+    "description": "<p>Composition: 100% linen , 9% polyamide, Durability: 28.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:49:00.403Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:00.895Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77c3efef7001201fad4",
+          "date_uploaded": "2024-04-03T00:49:00.746Z",
+          "length": 3176,
+          "md5": "2591c5b70aee6c503c9bb5be0f54be27",
+          "filename": "0003_4743693f-1249-4f08-b244-811e3194a4fd.jpg?v=1697435852",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77c3efef7001201fad4/2591c5b70aee6c503c9bb5be0f54be27/0003_4743693f-1249-4f08-b244-811e3194a4fd.jpg%3Fv%3D1697435852",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/0003_4743693f-1249-4f08-b244-811e3194a4fd.jpg?v=1697435852",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77ca94b1b0012cb0470"
+      }
+    ],
+    "id": "660ca77cd8543200123c79c0",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "natural-linen-fre"
+  },
+  {
+    "slug": "re-wool-fre",
+    "name": "Re-wool (FRE)",
+    "sku": "RE-WOOL-FRE-108",
+    "active": true,
+    "description": "<p>Composition: 45% wool, 45% recycled wool, 10% polyamide  , Lightfastness: 5-7 , Durability: 100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:59.828Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:49:00.148Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77ca94b1b0012cb046c",
+          "date_uploaded": "2024-04-03T00:49:00.074Z",
+          "length": 7104,
+          "md5": "ce44e0dd06452da3f48e15a0b055fa64",
+          "filename": "108_9b77e10f-be1b-47d8-98a1-56f13172dd39.jpg?v=1697435857",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77ca94b1b0012cb046c/ce44e0dd06452da3f48e15a0b055fa64/108_9b77e10f-be1b-47d8-98a1-56f13172dd39.jpg%3Fv%3D1697435857",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/108_9b77e10f-be1b-47d8-98a1-56f13172dd39.jpg?v=1697435857",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77c05351e00116d90cf"
+      }
+    ],
+    "id": "660ca77bffce19001217928a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "re-wool-fre"
+  },
+  {
+    "slug": "divina-melange-fre",
+    "name": "Divina Melange (FRE)",
+    "sku": "DIVINA-MELANGE-120",
+    "active": true,
+    "description": "<p>Composition: 100% wool  , Lightfastness: 6-7 , Durability: 45.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:59.140Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:59.573Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77b9262e900121ef2de",
+          "date_uploaded": "2024-04-03T00:48:59.484Z",
+          "length": 3988,
+          "md5": "760834d8b6f1fc61b3b8169a73361e29",
+          "filename": "120_357ac6dc-c55f-47f9-ada1-171cede3f400.jpg?v=1697435866",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77b9262e900121ef2de/760834d8b6f1fc61b3b8169a73361e29/120_357ac6dc-c55f-47f9-ada1-171cede3f400.jpg%3Fv%3D1697435866",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/120_357ac6dc-c55f-47f9-ada1-171cede3f400.jpg?v=1697435866",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77b3399200012d3f74a"
+      }
+    ],
+    "id": "660ca77bcbb07e0012d88af4",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "divina-melange-fre"
+  },
+  {
+    "slug": "bardal-fre",
+    "name": "Bardal (FRE)",
+    "sku": "BARDAL-FRE-110",
+    "active": true,
+    "description": "<p>Composition: 70% new wool, 30% viscose , Lightfastness: 5-7 , Durability: 62.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:58.495Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:58.873Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77a8469da001254f491",
+          "date_uploaded": "2024-04-03T00:48:58.787Z",
+          "length": 5252,
+          "md5": "7962efd88bc80a12098663aeb131bbc2",
+          "filename": "110_2b76aa4d-e1ee-42d6-a5aa-d1295043a875.jpg?v=1697435866",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77a8469da001254f491/7962efd88bc80a12098663aeb131bbc2/110_2b76aa4d-e1ee-42d6-a5aa-d1295043a875.jpg%3Fv%3D1697435866",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/110_2b76aa4d-e1ee-42d6-a5aa-d1295043a875.jpg?v=1697435866",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77a36117900120ff6d0"
+      }
+    ],
+    "id": "660ca77a19fae7001162a4a9",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "bardal-fre"
+  },
+  {
+    "slug": "loop-fre",
+    "name": "Loop (FRE)",
+    "sku": "LOOP-FRE-36",
+    "active": true,
+    "description": "<p>Composition: 46% acrylic, 23% wool, 15% cotton, 12% nylon, 4% polyester , Lightfastness: 5 , Durability: 60.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:57.122Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:57.546Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca779ece85f00123f531f",
+          "date_uploaded": "2024-04-03T00:48:57.465Z",
+          "length": 6992,
+          "md5": "76beca266e546494ce26e4660974ad2a",
+          "filename": "32_0df231e0-b3d1-4127-928e-a275500e6357.jpg?v=1697435872",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca779ece85f00123f531f/76beca266e546494ce26e4660974ad2a/32_0df231e0-b3d1-4127-928e-a275500e6357.jpg%3Fv%3D1697435872",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/32_0df231e0-b3d1-4127-928e-a275500e6357.jpg?v=1697435872",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca779d8543200123c79b0"
+      }
+    ],
+    "id": "660ca779854c850012b1d4b3",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "loop-fre"
+  },
+  {
+    "slug": "elle-fre",
+    "name": "Elle (FRE)",
+    "sku": "ELLE-FRE-180",
+    "active": true,
+    "description": "<p>Composition: 25% cotton, 20% wool, 20% viscose, 20% polyacrylic, 15% polyamide , Lightfastness: 6, Durability: 70.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:57.788Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:58.240Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77ab9962b0012f37899",
+          "date_uploaded": "2024-04-03T00:48:58.150Z",
+          "length": 6468,
+          "md5": "73ffae6cc9d7d121c99f82c39bbfa1ca",
+          "filename": "180_8d28586e-c3f9-43d3-be82-203f617501b1.jpg?v=1697435869",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77ab9962b0012f37899/73ffae6cc9d7d121c99f82c39bbfa1ca/180_8d28586e-c3f9-43d3-be82-203f617501b1.jpg%3Fv%3D1697435869",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/180_8d28586e-c3f9-43d3-be82-203f617501b1.jpg?v=1697435869",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca77a9a045b00125b3061"
+      }
+    ],
+    "id": "660ca7794e85020012c76a9c",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "elle-fre"
+  },
+  {
+    "slug": "vidar-fre",
+    "name": "Vidar (FRE)",
+    "sku": "VIDAR-FRE-146",
+    "active": true,
+    "description": "<p>Composition: 94% wool, 6% polyamide , Lightfastness: 7 , Durability: 100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:56.326Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:56.796Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7786af45d0012a882fa",
+          "date_uploaded": "2024-04-03T00:48:56.658Z",
+          "length": 5148,
+          "md5": "8a75b08c9d79ce5a749ce730da4315fe",
+          "filename": "146_d66da21f-d55d-4e1f-8930-cc73e420a345.jpg?v=1697435873",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7786af45d0012a882fa/8a75b08c9d79ce5a749ce730da4315fe/146_d66da21f-d55d-4e1f-8930-cc73e420a345.jpg%3Fv%3D1697435873",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/146_d66da21f-d55d-4e1f-8930-cc73e420a345.jpg?v=1697435873",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7784af4b5001222b12e"
+      }
+    ],
+    "id": "660ca7783efef7001201fac5",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "vidar-fre"
+  },
+  {
+    "slug": "vegeta-fre",
+    "name": "Vegeta (FRE)",
+    "sku": "VEGETA-FRE-90",
+    "active": true,
+    "description": null,
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:55.611Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:56.070Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca777cd2e4100127a54ca",
+          "date_uploaded": "2024-04-03T00:48:55.957Z",
+          "length": 2728,
+          "md5": "bdf48ab892726af92e7046f4ac443b7d",
+          "filename": "vegeta.jpg?v=1697435876",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca777cd2e4100127a54ca/bdf48ab892726af92e7046f4ac443b7d/vegeta.jpg%3Fv%3D1697435876",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/vegeta.jpg?v=1697435876",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7787963de00135dc6ef"
+      }
+    ],
+    "id": "660ca77733aa8f0012b2b54a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "vegeta-fre"
+  },
+  {
+    "slug": "harald-fre",
+    "name": "Harald (FRE)",
+    "sku": "HARALD-FRE-982",
+    "active": true,
+    "description": "<p>Composition: 100% cotton , Lightfastness: 5-6 , Durability: 100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:54.840Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:55.360Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca777a07501001243e28f",
+          "date_uploaded": "2024-04-03T00:48:55.192Z",
+          "length": 2036,
+          "md5": "d30186167db15c28cf19ced53bc6c800",
+          "filename": "143_4e0b8c20-bfbd-47a5-ba1f-93cf1f9b54fb.jpg?v=1697435876",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca777a07501001243e28f/d30186167db15c28cf19ced53bc6c800/143_4e0b8c20-bfbd-47a5-ba1f-93cf1f9b54fb.jpg%3Fv%3D1697435876",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/143_4e0b8c20-bfbd-47a5-ba1f-93cf1f9b54fb.jpg?v=1697435876",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca777368f110012036380"
+      }
+    ],
+    "id": "660ca7767da3c00012a7735d",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "harald-fre"
+  },
+  {
+    "slug": "savoy-fre",
+    "name": "Savoy (FRE)",
+    "sku": "SAVOY-FRE-61220",
+    "active": true,
+    "description": "<p>Composition: 100% Trevira CS , Lightfastness: 5-8 , Durability: 100.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:54.010Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:54.446Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7769262e900121ef2c0",
+          "date_uploaded": "2024-04-03T00:48:54.359Z",
+          "length": 1752,
+          "md5": "c25e3c82260ee1d4e52217911495e0f0",
+          "filename": "60200_141af9fc-c2f8-49a2-8985-85505378f5eb.jpg?v=1697435877",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7769262e900121ef2c0/c25e3c82260ee1d4e52217911495e0f0/60200_141af9fc-c2f8-49a2-8985-85505378f5eb.jpg%3Fv%3D1697435877",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/60200_141af9fc-c2f8-49a2-8985-85505378f5eb.jpg?v=1697435877",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7763ec2720011601128"
+      }
+    ],
+    "id": "660ca775f8a26d00120536b9",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "savoy-fre"
+  },
+  {
+    "slug": "remix-fre",
+    "name": "Remix (FRE)",
+    "sku": "REMIX-FRE-123",
+    "active": true,
+    "description": "<p>Composition: 90% wool, 10% polyamide , Lightfastness: 6 , Durability: 100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:53.427Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:53.768Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77563bd5e0011680a5f",
+          "date_uploaded": "2024-04-03T00:48:53.685Z",
+          "length": 3312,
+          "md5": "43af53d55ee4dde7b583fadf37e68c59",
+          "filename": "123_3e5019ce-15f6-4048-a7f0-d5e49cffcaff.jpg?v=1697435880",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77563bd5e0011680a5f/43af53d55ee4dde7b583fadf37e68c59/123_3e5019ce-15f6-4048-a7f0-d5e49cffcaff.jpg%3Fv%3D1697435880",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/123_3e5019ce-15f6-4048-a7f0-d5e49cffcaff.jpg?v=1697435880",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7759262e900121ef2b7"
+      }
+    ],
+    "id": "660ca775cfbf540012f416b4",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "remix-fre"
+  },
+  {
+    "slug": "max-fre",
+    "name": "Max (FRE)",
+    "sku": "MAX-FRE-98",
+    "active": true,
+    "description": "<p>Lightfastness: 4</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:52.036Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:52.497Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca774cbb07e0012d88ae5",
+          "date_uploaded": "2024-04-03T00:48:52.341Z",
+          "length": 1732,
+          "md5": "4ca738ecb943b73ef2becfc922179a2f",
+          "filename": "91_e7a5aa4e-2a01-4418-9b1d-204596ee49ef.jpg?v=1697435883",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca774cbb07e0012d88ae5/4ca738ecb943b73ef2becfc922179a2f/91_e7a5aa4e-2a01-4418-9b1d-204596ee49ef.jpg%3Fv%3D1697435883",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/91_e7a5aa4e-2a01-4418-9b1d-204596ee49ef.jpg?v=1697435883",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7744c51cf00112de665"
+      }
+    ],
+    "id": "660ca7744c51cf00112de65a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "max-fre"
+  },
+  {
+    "slug": "vice-fre",
+    "name": "Vice (FRE)",
+    "sku": "VICE-FRE-11",
+    "active": true,
+    "description": "<p>Lightfastness: 5</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:52.760Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:53.162Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca775ed4b210012be7081",
+          "date_uploaded": "2024-04-03T00:48:53.074Z",
+          "length": 6588,
+          "md5": "c2a061137a4b17a9fff9d0fa99cf26c7",
+          "filename": "11_32111ec6-7575-4700-9a91-3e7c3c355257.jpg?v=1697435881",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca775ed4b210012be7081/c2a061137a4b17a9fff9d0fa99cf26c7/11_32111ec6-7575-4700-9a91-3e7c3c355257.jpg%3Fv%3D1697435881",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/11_32111ec6-7575-4700-9a91-3e7c3c355257.jpg?v=1697435881",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7755e21740012634e4f"
+      }
+    ],
+    "id": "660ca7740e6dd900123ef5ee",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "vice-fre"
+  },
+  {
+    "slug": "sunniva-fre",
+    "name": "Sunniva (FRE)",
+    "sku": "SUNNIVA-FRE-242",
+    "active": true,
+    "description": "<p>Composition: 58% wool, 25% viscose, 8% linen, 5% polyamide, 4% polyester , Lightfastness: 5 , Durability: 50.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:51.407Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:51.756Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7736549aa001381f447",
+          "date_uploaded": "2024-04-03T00:48:51.675Z",
+          "length": 3336,
+          "md5": "1fca93307a78d6aed6999386437586b9",
+          "filename": "173_65b088c6-6ac2-4394-857e-66988c7545f6.jpg?v=1697435884",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7736549aa001381f447/1fca93307a78d6aed6999386437586b9/173_65b088c6-6ac2-4394-857e-66988c7545f6.jpg%3Fv%3D1697435884",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/173_65b088c6-6ac2-4394-857e-66988c7545f6.jpg?v=1697435884",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca773ac187f0012fd00a2"
+      }
+    ],
+    "id": "660ca7737463b30012536c36",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "sunniva-fre"
+  },
+  {
+    "slug": "grand-mohair-fre",
+    "name": "Grand Mohair (FRE)",
+    "sku": "GRAND-MOHAIR-1108",
+    "active": true,
+    "description": "<p>Composition: 100% mohair (pile), 100% cotton (base) , Lightfastness: 4-5 , Durability: +100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:50.696Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:51.172Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca772cd2e4100127a54bb",
+          "date_uploaded": "2024-04-03T00:48:50.999Z",
+          "length": 2352,
+          "md5": "e99f18002b290f6799ed363e9f3a6f39",
+          "filename": "1108.jpg?v=1697435886",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca772cd2e4100127a54bb/e99f18002b290f6799ed363e9f3a6f39/1108.jpg%3Fv%3D1697435886",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/1108.jpg?v=1697435886",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca773a1702f0012abd343"
+      }
+    ],
+    "id": "660ca772025f6d0012d81db8",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "grand-mohair-fre"
+  },
+  {
+    "slug": "connect-fre",
+    "name": "Connect (FRE)",
+    "sku": "CONNECT-FRE-60146",
+    "active": true,
+    "description": "<p>Composition: 8% wool, 41% post-consumer recycled polyester, 9% polyamid, 2% polyester , Lightfastness: 5-7 , Durability: 90.000 Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:49.290Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:49.744Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77133aa8f0012b2b536",
+          "date_uploaded": "2024-04-03T00:48:49.603Z",
+          "length": 2404,
+          "md5": "d7ac0c66488f02d511ba6f7fba42ade5",
+          "filename": "60146.jpg?v=1697435889",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77133aa8f0012b2b536/d7ac0c66488f02d511ba6f7fba42ade5/60146.jpg%3Fv%3D1697435889",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/60146.jpg?v=1697435889",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7717da3c00012a77351"
+      }
+    ],
+    "id": "660ca771f8a26d001205369a",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "connect-fre"
+  },
+  {
+    "slug": "safire-fre",
+    "name": "Safire (FRE)",
+    "sku": "SAFIRE-FRE-0016",
+    "active": true,
+    "description": "<p>Composition: 43% viscose, 17% polyacrylic, 15% new wool, 9% cotton, 8% polyester, 8% linen , Lightfastness: 5-6 , Durability: 44.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:49.988Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:50.454Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7729a045b00125b3050",
+          "date_uploaded": "2024-04-03T00:48:50.301Z",
+          "length": 7372,
+          "md5": "85efa9a0cb1096c7d47e2689fe613d18",
+          "filename": "0001_dd6cd624-e723-4693-be5f-f177f64068d2.jpg?v=1697435888",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7729a045b00125b3050/85efa9a0cb1096c7d47e2689fe613d18/0001_dd6cd624-e723-4693-be5f-f177f64068d2.jpg%3Fv%3D1697435888",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/0001_dd6cd624-e723-4693-be5f-f177f64068d2.jpg?v=1697435888",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca7724c51cf00112de650"
+      }
+    ],
+    "id": "660ca771abe9a90012efa8c2",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "safire-fre"
+  },
+  {
+    "slug": "hallingdal-65-fre",
+    "name": "Hallingdal 65 (FRE)",
+    "sku": "HALLINGDAL-FRE-103",
+    "active": true,
+    "description": "<p>Composition: 70% wool, 30% viscose , Lightfastness: 7 , Durability: 100.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:48.704Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:49.049Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca77048a1fb001239eaca",
+          "date_uploaded": "2024-04-03T00:48:48.962Z",
+          "length": 8740,
+          "md5": "00e0846304f8306fc3de446c76aeb64c",
+          "filename": "103_0084110e-f96f-4380-ae34-710361594ddc.jpg?v=1697435890",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca77048a1fb001239eaca/00e0846304f8306fc3de446c76aeb64c/103_0084110e-f96f-4380-ae34-710361594ddc.jpg%3Fv%3D1697435890",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/103_0084110e-f96f-4380-ae34-710361594ddc.jpg?v=1697435890",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca771047c2b0012b3db2f"
+      }
+    ],
+    "id": "660ca77014e3fb0012e894f5",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "hallingdal-65-fre"
+  },
+  {
+    "slug": "linara-fre",
+    "name": "Linara (FRE)",
+    "sku": "LINARA-FRE-380",
+    "active": true,
+    "description": "<p>Composition: 63% Cotton, 37% Linen , Lightfastness: 5 , Durability: 36.000  Martindale</p>",
+    "price": 0,
+    "sale": false,
+    "bundle": false,
+    "meta_title": null,
+    "meta_description": null,
+    "currency": "USD",
+    "type": "physical",
+    "delivery": "shipment",
+    "date_created": "2024-04-03T00:48:47.993Z",
+    "stock_status": null,
+    "date_updated": "2024-04-03T00:48:48.454Z",
+    "prices": [],
+    "purchase_options": {
+      "standard": {
+        "active": true,
+        "price": 0,
+        "sale": false,
+        "prices": []
+      }
+    },
+    "images": [
+      {
+        "file": {
+          "id": "660ca7708469da001254f452",
+          "date_uploaded": "2024-04-03T00:48:48.377Z",
+          "length": 4180,
+          "md5": "b8a83715f5e235d43183b6d5bc4f7dd4",
+          "filename": "45_2ea29c5f-0bb9-4101-9f5c-56db653512a5.jpg?v=1697435893",
+          "content_type": "image/jpeg",
+          "url": "https://cdn.swell.store/b2sdemo_test/660ca7708469da001254f452/b8a83715f5e235d43183b6d5bc4f7dd4/45_2ea29c5f-0bb9-4101-9f5c-56db653512a5.jpg%3Fv%3D1697435893",
+          "uploaded_url": "https://cdn.shopify.com/s/files/1/0012/2005/1002/products/45_2ea29c5f-0bb9-4101-9f5c-56db653512a5.jpg?v=1697435893",
+          "width": 192,
+          "height": 192
+        },
+        "id": "660ca770368f110012036365"
+      }
+    ],
+    "id": "660ca76fa07501001243e27f",
+    "variants": {
+      "count": 0,
+      "page_count": 1,
+      "page": 1,
+      "results": []
+    },
+    "filename": "linara-fre"
+  }
+]
